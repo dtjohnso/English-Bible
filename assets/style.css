@@ -1,0 +1,39 @@
+body {
+	font-family: 'Belgrano', serif;
+	font-weight: 400;
+}
+
+.boilerplate {
+	margin-left: 20px;
+}
+
+.other {
+	margin-left: 20px;
+}
+
+.other img {
+	margin: 0 auto 0 auto;
+	opacity : 0.6;
+    filter: alpha(opacity=60);
+}
+
+.boilerplate h1 {
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.boilerplate p {
+	margin: 0;
+	padding: 0;
+    color: DimGrey;
+}
+
+.credit {
+    color: DimGrey;
+    text-align: center;
+}
+
+.license {
+	text-align: right;
+	font-size: .8em;
+}
