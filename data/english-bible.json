@@ -454,7 +454,7 @@
    "type":"Item",
    "uri":"https://spreadsheets.google.com/feeds/cells/0Al49R2dL41V5dGZEQ2JQaE0zY21yejk5V3pySTl6NHc/od6/public/item#The%20New%20International%20Version",
    "start":"1978",
-   "eventType":"Bible--other",
+   "eventType":"Bible--NIV",
    "sources":"Metzger",
    "wikipedia":"http://en.wikipedia.org/wiki/NIV",
    "origin":"http://duncanandmeg.org/projects/kjv/timeline.html#The%20New%20International%20Version"
@@ -527,7 +527,7 @@
    "type":"Item",
    "uri":"https://spreadsheets.google.com/feeds/cells/0Al49R2dL41V5dGZEQ2JQaE0zY21yejk5V3pySTl6NHc/od6/public/item#New%20International%20Reader's%20Version",
    "start":"1996",
-   "eventType":"Bible--other",
+   "eventType":"Bible--NIV",
    "sources":"Metzger",
    "origin":"http://duncanandmeg.org/projects/kjv/timeline.html#New%20International%20Reader's%20Version"
   },
@@ -545,7 +545,7 @@
    "type":"Item",
    "uri":"https://spreadsheets.google.com/feeds/cells/0Al49R2dL41V5dGZEQ2JQaE0zY21yejk5V3pySTl6NHc/od6/public/item#Today's%20New%20International%20Version",
    "start":"2005",
-   "eventType":"Bible--other",
+   "eventType":"Bible--NIV",
    "wikipedia":"http://en.wikipedia.org/wiki/TNIV",
    "origin":"http://duncanandmeg.org/projects/kjv/timeline.html#Today's%20New%20International%20Version"
   },
@@ -554,7 +554,7 @@
    "type":"Item",
    "uri":"https://spreadsheets.google.com/feeds/cells/0Al49R2dL41V5dGZEQ2JQaE0zY21yejk5V3pySTl6NHc/od6/public/item#New%20International%20Version%2C%202011%20update",
    "start":"2011-03",
-   "eventType":"Bible--other",
+   "eventType":"Bible--NIV",
    "wikipedia":"http://en.wikipedia.org/wiki/NIV",
    "origin":"http://duncanandmeg.org/projects/kjv/timeline.html#New%20International%20Version%2C%202011%20update"
   },
