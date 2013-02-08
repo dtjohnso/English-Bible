@@ -982,6 +982,10 @@
    "type":"Item",
    "start":"0735",
    "eventType":"Bible--other",
+   "wikipedia":"http://en.wikipedia.org/wiki/Bede",
+   "image":"http://upload.wikimedia.org/wikipedia/commons/7/78/The_Venerable_Bede_translates_John_1902.jpg",
+   "imagesource":"http://en.wikipedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg",
+   "imagecredit":"Wikipedia",
    "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
 },
 {"id":"King Alfred the Great translates the Psalms and 10 Commandments",
@@ -989,6 +993,10 @@
    "type":"Item",
    "start":"0871",
    "end":"0899",
+   "wikipedia":"http://en.wikipedia.org/wiki/Alfred_the_great",
+   "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Statue_d%27Alfred_le_Grand_%C3%A0_Winchester.jpg/220px-Statue_d%27Alfred_le_Grand_%C3%A0_Winchester.jpg",
+   "imagesource":"http://en.wikipedia.org/wiki/File:Statue_d%27Alfred_le_Grand_%C3%A0_Winchester.jpg",
+   "imagecredit":"Wikipedia",
    "eventType":"Bible--other",
    "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
 },
@@ -996,6 +1004,10 @@
    "label":"The 7th-century Lindisfarne Gospels receive English translation",
    "type":"Item",
    "start":"0950",
+   "wikipedia":"http://en.wikipedia.org/wiki/Lindisfarne_Gospels",
+   "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/LindisfarneChiRiho.jpg/220px-LindisfarneChiRiho.jpg",
+   "imagesource":"http://en.wikipedia.org/wiki/File:LindisfarneChiRiho.jpg",
+   "imagecredit":"Wikipedia",
    "eventType":"Bible--other",
    "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
 },
