@@ -522,6 +522,15 @@
    "sources":"Metzger",
    "origin":"http://duncanandmeg.org/projects/kjv/timeline.html#Contemporary%20English%20Version"
   },
+  {
+    "id":"New International Version, Inclusive Language Edition",
+    "label":"New International Version, Inclusive Language Edition",
+    "type":"Item",
+    "start":"1996",
+    "eventType":"Bible--NIV",
+    "description":"Sold exclusively in Britain, labeled “Inclusive” because it used gender-neutral language. A host of conservative evangelicals, led by The Council on Biblical Manhood and Womanhood (CBMW) and WORLD magazine attacked this trend in NIV translations."
+    // "sources":""
+    },
   {"id":"New International Reader's Version",
    "label":"New International Reader's Version",
    "type":"Item",
@@ -529,6 +538,7 @@
    "start":"1996",
    "eventType":"Bible--NIV",
    "sources":"Metzger",
+   "description":"New International Reader’s Version, intended for children, sold in the United States. Introduced some gender-neutral language. It is unclear whether Zondervan ever sold the announced revision that would remove gender-neutral language.",
    "origin":"http://duncanandmeg.org/projects/kjv/timeline.html#New%20International%20Reader's%20Version"
   },
   {"id":"English Standard Version",
@@ -546,6 +556,7 @@
    "uri":"https://spreadsheets.google.com/feeds/cells/0Al49R2dL41V5dGZEQ2JQaE0zY21yejk5V3pySTl6NHc/od6/public/item#Today's%20New%20International%20Version",
    "start":"2005",
    "eventType":"Bible--NIV",
+   "description":"Also uses gender-neutral language, condemned by some conservative evangelicals.",
    "wikipedia":"http://en.wikipedia.org/wiki/TNIV",
    "origin":"http://duncanandmeg.org/projects/kjv/timeline.html#Today's%20New%20International%20Version"
   },
