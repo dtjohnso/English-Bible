@@ -3,7 +3,6 @@
   {"id":"Geneva Bible NT",
    "label":"Geneva Bible NT",
    "type":"Item",
-
    "start":"1557",
    "eventType":"Bible--Geneva",
    "wikipedia":"http://en.wikipedia.org/wiki/Geneva_Bible",
@@ -13,7 +12,6 @@
   {"id":"Geneva Bible NT and OT",
    "label":"Geneva Bible NT and OT",
    "type":"Item",
-
    "start":"1560",
    "eventType":"Bible--Geneva",
    "wikipedia":"http://en.wikipedia.org/wiki/Geneva_Bible",
@@ -23,7 +21,6 @@
   {"id":"Elizabeth I appoints Christopher Barker as Queen's Printer",
    "label":"Elizabeth I appoints Christopher Barker as Queen's Printer",
    "type":"Item",
-
    "start":"1589",
    "eventType":"Bible--KJV",
    "wikipedia":"http://en.wikipedia.org/wiki/Christopher_Barker_(printer)"
@@ -31,7 +28,6 @@
   {"id":"Hampton Court conference",
    "label":"Hampton Court conference",
    "type":"Item",
-
    "start":"1604-01-14",
    "eventType":"Bible--KJV",
    "wikipedia":"http://en.wikipedia.org/wiki/Hampton_Court_Conference",
@@ -53,7 +49,6 @@
   {"id":"The \"Wicked Bible\"",
    "label":"The \"Wicked Bible\"",
    "type":"Item",
-
    "start":"1631",
    "description":"Robert Barker and Martin Lucas' 1631 reprint of the KJV included a serious compositor's mistake, incorrectly printing Exodus 20:14 as \"Thou shalt commit adultery.\"",
    "eventType":"Bible--KJV",
@@ -64,7 +59,6 @@
   {"id":"The \"Vinegar Bible\"",
    "label":"The \"Vinegar Bible\"",
    "type":"Item",
-
    "start":"1717",
    "description":"At the top of the page containing the twentieth chapter of the Book of Luke, with its parable of the vineyard, the typesetter of this Oxford Bible inadvertently set the page-head to read 'The parable of the vinegar.'",
    "eventType":"Bible--KJV",
@@ -77,7 +71,6 @@
   {"id":"Translation Committee translates in sections",
    "label":"Translation Committee translates in sections",
    "type":"Item",
-
    "start":"1604",
    "end":"1608",
    "eventType":"Bible--KJV"
@@ -85,7 +78,6 @@
   {"id":"General Committee of Review",
    "label":"General Committee of Review",
    "type":"Item",
-
    "start":"1609",
    "end":"1611",
    "eventType":"Bible--KJV"
@@ -93,7 +85,6 @@
   {"id":"First edition KJV printed by Robert Barker",
    "label":"First edition KJV printed by Robert Barker",
    "type":"Item",
-
    "start":"1611",
    "description":"The original printing of the Authorized Version was published by Robert Barker, the King's Printer, in 1611 as a complete folio Bible. It was sold looseleaf for ten shillings, or bound for twelve.",
    "eventType":"Bible--KJV",
@@ -104,7 +95,6 @@
   {"id":"Cambridge releases an updated KJV text",
    "label":"Cambridge releases an updated KJV text",
    "type":"Item",
-
    "start":"1762",
    "eventType":"Bible--KJV",
    "wikipedia":"http://en.wikipedia.org/wiki/King_James_Version#Standard_text_of_1769"
@@ -112,7 +102,6 @@
   {"id":"Oxford releases an updated KJV text",
    "label":"Oxford releases an updated KJV text",
    "type":"Item",
-
    "start":"1769",
    "description":"<p>Edited by Benjamin Blayney, this edition sought to overcome the numerous variants introduced by printing errors since 1611 and has since become the text of all modern editions of the KJV. To understand the types of changes Blayney made, consider these passages from the 1611 and 1769 text below (examples from Wikipedia).</p><blockquote><p><b>1 Cor. 13:1-3 (1611)</b> <sup>1</sup> Though I speake with the tongues of men & of Angels, and haue not charity, I am become as sounding brasse or a tinkling cymbal. <sup>2</sup> And though I haue the gift of prophesie, and vnderstand all mysteries and all knowledge: and though I haue all faith, so that I could remooue mountaines, and haue no charitie, I am nothing. <sup>3</sup> And though I bestowe all my goods to feede the poore, and though I giue my body to bee burned, and haue not charitie, it profiteth me nothing.</p><p><b>1 Cor. 13:1-3 (1769)</b> <sup>1</sup> Though I speak with the tongues of men and of angels, and have not charity, I am become as sounding brass, or a tinkling cymbal. <sup>2</sup> And though I have the gift of prophecy, and understand all mysteries, and all knowledge; and though I have all faith, so that I could remove mountains, and have not charity, I am nothing. <sup>3</sup> And though I bestow all my goods to feed the poor, and though I give my body to be burned, and have not charity, it profiteth me nothing.</p></blockquote>",
    "eventType":"Bible--KJV",
@@ -121,7 +110,6 @@
   {"id":"New King James NT",
    "label":"New King James NT",
    "type":"Item",
-
    "start":"1979",
    "eventType":"Bible--KJV",
    "wikipedia":"http://en.wikipedia.org/wiki/New_King_James"
@@ -129,7 +117,6 @@
   {"id":"New King James NT and Psalms",
    "label":"New King James NT and Psalms",
    "type":"Item",
-
    "start":"1980",
    "eventType":"Bible--KJV",
    "wikipedia":"http://en.wikipedia.org/wiki/New_King_James"
@@ -137,7 +124,6 @@
   {"id":"New King James Version",
    "label":"New King James Version",
    "type":"Item",
-
    "start":"1982",
    "eventType":"Bible--KJV",
    "wikipedia":"http://en.wikipedia.org/wiki/New_King_James"
@@ -145,7 +131,6 @@
   {"id":"KJV produced by the King's Printer",
    "label":"KJV produced by the King's Printer",
    "type":"Item",
-
    "start":"1612",
    "end":"1617",
    "description":"\"This short period sees no fewer than thirty printings of the KJB. Careless mistakes continue to be found and deliberate changes start to creep in.\"",
@@ -155,7 +140,6 @@
   {"id":"KJV produced by the Cambridge and Oxford University Presses",
    "label":"KJV produced by the Cambridge and Oxford University Presses",
    "type":"Item",
-
    "start":"1629",
    "end":"1760",
    "eventType":"Bible--KJV",
@@ -164,7 +148,6 @@
   {"id":"Attempts to standardize the KJV text",
    "label":"Attempts to standardize the KJV text",
    "type":"Item",
-
    "start":"1762",
    "end":"1769",
    "eventType":"Bible--KJV",
@@ -173,7 +156,6 @@
   {"id":"F. H. A. Scrivener's <i>The Cambridge Paragraph Bible of the Authorized English Version</i>",
    "label":"F. H. A. Scrivener's <i>The Cambridge Paragraph Bible of the Authorized English Version</i>",
    "type":"Item",
-
    "start":"1873",
    "eventType":"Bible--KJV",
    "sources":"Wong, Simon. “Which King James Bible Are We Referring To?” <i>Bible Translator</i> 62, no. 1 (January 2011): 1-11."
@@ -181,7 +163,6 @@
   {"id":"1833 Oxford reprint edition of the 1611 KJV lists 400 word differences between the 1611 and 1613 editions",
    "label":"1833 Oxford reprint edition of the 1611 KJV lists 400 word differences between the 1611 and 1613 editions",
    "type":"Item",
-
    "start":"1833",
    "eventType":"Bible--KJV",
    "sources":"Wong, Simon. “Which King James Bible Are We Referring To?” <i>Bible Translator</i> 62, no. 1 (January 2011): 1-11."
@@ -189,7 +170,6 @@
   {"id":"The \"Printer's Bible\"",
    "label":"The \"Printer's Bible\"",
    "type":"Item",
-
    "start":"1612",
    "description":"\"One amusing mistake from the printer found in some copies of the 1612 edition is the substitution of \"Printers\" for \"Princes\" in Ps. 119:161: 'Princes [Printers] have persecuted me without a cause' (the 1611 edition has 'Princes').\"",
    "eventType":"Bible--KJV",
@@ -198,7 +178,6 @@
   {"id":"The \"Unrighteous Bible\"",
    "label":"The \"Unrighteous Bible\"",
    "type":"Item",
-
    "start":"1653",
    "description":"This misprint rendered 1 Corinthians 6:9 as \"the unrighteous shall inherit the kingdom of God\" instead of \"shall not inherit.\"",
    "eventType":"Bible--KJV",
@@ -207,7 +186,6 @@
   {"id":"First major Cambridge KJV edition",
    "label":"First major Cambridge KJV edition",
    "type":"Item",
-
    "start":"1629",
    "eventType":"Bible--KJV",
    "sources":"Wong, Simon. “Which King James Bible Are We Referring To?” <i>Bible Translator</i> 62, no. 1 (January 2011): 1-11."
@@ -215,7 +193,6 @@
   {"id":"Second major Cambridge KJV edition",
    "label":"Second major Cambridge KJV edition",
    "type":"Item",
-
    "start":"1638",
    "eventType":"Bible--KJV",
    "sources":"Wong, Simon. “Which King James Bible Are We Referring To?” <i>Bible Translator</i> 62, no. 1 (January 2011): 1-11."
@@ -223,7 +200,6 @@
   {"id":"First major Oxford KJV edition",
    "label":"First major Oxford KJV edition",
    "type":"Item",
-
    "start":"1675",
    "eventType":"Bible--KJV",
    "sources":"Wong, Simon. “Which King James Bible Are We Referring To?” <i>Bible Translator</i> 62, no. 1 (January 2011): 1-11."
@@ -231,7 +207,6 @@
   {"id":"Second major Oxford KJV edition",
    "label":"Second major Oxford KJV edition",
    "type":"Item",
-
    "start":"1679",
    "eventType":"Bible--KJV",
    "sources":"Wong, Simon. “Which King James Bible Are We Referring To?” <i>Bible Translator</i> 62, no. 1 (January 2011): 1-11."
@@ -239,7 +214,6 @@
   {"id":"Taverner's Bible",
    "label":"Taverner's Bible",
    "type":"Item",
-
    "start":"1539",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -247,7 +221,6 @@
   {"id":"Edmund Becke's Bibles",
    "label":"Edmund Becke's Bibles",
    "type":"Item",
-
    "start":"1549",
    "end":"1551",
    "eventType":"Bible--other",
@@ -256,7 +229,6 @@
   {"id":"Bishops' Bible",
    "label":"Bishops' Bible",
    "type":"Item",
-
    "start":"1568",
    "eventType":"Bible--other",
    "wikipedia":"http://en.wikipedia.org/wiki/Bishops'_Bible",
@@ -266,7 +238,6 @@
   {"id":"Rheims-Douay Bible",
    "label":"Rheims-Douay Bible",
    "type":"Item",
-
    "start":"1582",
    "end":"1610",
    "eventType":"Bible--other",
@@ -275,7 +246,6 @@
   {"id":"Edward Harwood's New Testament",
    "label":"Edward Harwood's New Testament",
    "type":"Item",
-
    "start":"1768",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -283,7 +253,6 @@
   {"id":"Charles Thomson's Bible",
    "label":"Charles Thomson's Bible",
    "type":"Item",
-
    "start":"1808",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -291,7 +260,6 @@
   {"id":"Noah Webster's Bible",
    "label":"Noah Webster's Bible",
    "type":"Item",
-
    "start":"1833",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -299,7 +267,6 @@
   {"id":"Julia E. Smith's Bible",
    "label":"Julia E. Smith's Bible",
    "type":"Item",
-
    "start":"1876",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -307,7 +274,6 @@
   {"id":"The Twentieth Century New Testament",
    "label":"The Twentieth Century New Testament",
    "type":"Item",
-
    "start":"1901",
    "end":"1904",
    "eventType":"Bible--other",
@@ -316,7 +282,6 @@
   {"id":"Weymouth's New Testament in Modern Speech",
    "label":"Weymouth's New Testament in Modern Speech",
    "type":"Item",
-
    "start":"1903",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -324,7 +289,6 @@
   {"id":"Smith and Goodspeed's American Translation",
    "label":"Smith and Goodspeed's American Translation",
    "type":"Item",
-
    "start":"1923",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -332,7 +296,6 @@
   {"id":"Moffatt's Translation of the Bible",
    "label":"Moffatt's Translation of the Bible",
    "type":"Item",
-
    "start":"1924",
    "end":"1925",
    "eventType":"Bible--other",
@@ -341,7 +304,6 @@
   {"id":"Basic English Bible",
    "label":"Basic English Bible",
    "type":"Item",
-
    "start":"1949",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -349,7 +311,6 @@
   {"id":"J. B. Phillips's Version",
    "label":"J. B. Phillips's Version",
    "type":"Item",
-
    "start":"1958",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -357,7 +318,6 @@
   {"id":"The Jerusalem Bible",
    "label":"The Jerusalem Bible",
    "type":"Item",
-
    "start":"1966",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -365,7 +325,6 @@
   {"id":"The New American Bible",
    "label":"The New American Bible",
    "type":"Item",
-
    "start":"1970",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -373,7 +332,6 @@
   {"id":"The New English Bible",
    "label":"The New English Bible",
    "type":"Item",
-
    "start":"1970",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -381,7 +339,6 @@
   {"id":"New American Standard Bible",
    "label":"New American Standard Bible",
    "type":"Item",
-
    "start":"1971",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -389,7 +346,6 @@
   {"id":"J. B. Phillips's Version rev. ed.",
    "label":"J. B. Phillips's Version rev. ed.",
    "type":"Item",
-
    "start":"1972",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -397,7 +353,6 @@
   {"id":"Good News Bible (Today's English Version)",
    "label":"Good News Bible (Today's English Version)",
    "type":"Item",
-
    "start":"1976",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -405,7 +360,6 @@
   {"id":"The New International Version",
    "label":"The New International Version",
    "type":"Item",
-
    "start":"1978",
    "eventType":"Bible--NIV",
    "sources":"Metzger",
@@ -414,7 +368,6 @@
   {"id":"Reader's Digest Bible",
    "label":"Reader's Digest Bible",
    "type":"Item",
-
    "start":"1982",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -422,7 +375,6 @@
   {"id":"New Jerusalem Bible",
    "label":"New Jerusalem Bible",
    "type":"Item",
-
    "start":"1985",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -430,7 +382,6 @@
   {"id":"Revised New Testament, New American Bible",
    "label":"Revised New Testament, New American Bible",
    "type":"Item",
-
    "start":"1986",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -438,7 +389,6 @@
   {"id":"Revised English Bible",
    "label":"Revised English Bible",
    "type":"Item",
-
    "start":"1989",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -446,7 +396,6 @@
   {"id":"New Revised Standard Version",
    "label":"New Revised Standard Version",
    "type":"Item",
-
    "start":"1990",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -454,7 +403,6 @@
   {"id":"New American Standard Bible update",
    "label":"New American Standard Bible update",
    "type":"Item",
-
    "start":"1995",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -462,7 +410,6 @@
   {"id":"Contemporary English Version",
    "label":"Contemporary English Version",
    "type":"Item",
-
    "start":"1995",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -478,7 +425,6 @@
   {"id":"New International Reader's Version",
    "label":"New International Reader's Version",
    "type":"Item",
-
    "start":"1996",
    "eventType":"Bible--NIV",
    "sources":"Metzger",
@@ -487,7 +433,6 @@
   {"id":"English Standard Version",
    "label":"English Standard Version",
    "type":"Item",
-
    "start":"2001",
    "eventType":"Bible--other",
    "wikipedia":"http://en.wikipedia.org/wiki/English_Standard_Version"
@@ -495,7 +440,6 @@
   {"id":"Today's New International Version",
    "label":"Today's New International Version",
    "type":"Item",
-
    "start":"2005",
    "eventType":"Bible--NIV",
    "description":"Also uses gender-neutral language, condemned by some conservative evangelicals.",
@@ -504,7 +448,6 @@
   {"id":"New International Version, 2011 update",
    "label":"New International Version, 2011 update",
    "type":"Item",
-
    "start":"2011-03",
    "eventType":"Bible--NIV",
    "wikipedia":"http://en.wikipedia.org/wiki/NIV"
@@ -512,7 +455,6 @@
   {"id":"British Revised Version",
    "label":"British Revised Version",
    "type":"Item",
-
    "start":"1881",
    "end":"1885",
    "eventType":"Bible--other",
@@ -521,7 +463,6 @@
   {"id":"American Standard Version",
    "label":"American Standard Version",
    "type":"Item",
-
    "start":"1901",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -529,7 +470,6 @@
   {"id":"The Revised Standard Version",
    "label":"The Revised Standard Version",
    "type":"Item",
-
    "start":"1952",
    "eventType":"Bible--other",
    "sources":"Metzger"
@@ -537,7 +477,6 @@
   {"id":"Coverdale Bible",
    "label":"Coverdale Bible",
    "type":"Item",
-
    "start":"1535",
    "eventType":"Bible--Tyndale",
    "wikipedia":"http://en.wikipedia.org/wiki/Coverdale_Bible"
@@ -545,7 +484,6 @@
   {"id":"Matthew Bible",
    "label":"Matthew Bible",
    "type":"Item",
-
    "start":"1537",
    "eventType":"Bible--Tyndale",
    "wikipedia":"http://en.wikipedia.org/wiki/Matthew_Bible"
@@ -553,7 +491,6 @@
   {"id":"Great Bible",
    "label":"Great Bible",
    "type":"Item",
-
    "start":"1539",
    "eventType":"Bible--Tyndale",
    "wikipedia":"http://en.wikipedia.org/wiki/Great_Bible",
@@ -563,7 +500,6 @@
   {"id":"William Tyndale translates the Bible into English",
    "label":"William Tyndale translates the Bible into English",
    "type":"Item",
-
    "start":"1525",
    "end":"1535",
    "description":"While a number of partial and complete English translations had been made previously, Tyndale's was the first English translation to draw directly from Hebrew and Greek texts, and the first to take advantage of the new medium of print, which allowed for its wide distribution.",
@@ -575,7 +511,6 @@
   {"id":"Tyndale New Testament",
    "label":"Tyndale New Testament",
    "type":"Item",
-
    "start":"1525",
    "eventType":"Bible--Tyndale",
    "wikipedia":"http://en.wikipedia.org/wiki/Tyndale_Bible",
@@ -585,7 +520,6 @@
   {"id":"Tyndale Pentateuch",
    "label":"Tyndale Pentateuch",
    "type":"Item",
-
    "start":"1530",
    "eventType":"Bible--Tyndale",
    "wikipedia":"http://en.wikipedia.org/wiki/Tyndale_Bible"
@@ -593,7 +527,6 @@
   {"id":"Tyndale revised NT and Pentateuch",
    "label":"Tyndale revised NT and Pentateuch",
    "type":"Item",
-
    "start":"1534",
    "eventType":"Bible--Tyndale",
    "wikipedia":"http://en.wikipedia.org/wiki/Tyndale_Bible"
@@ -601,7 +534,6 @@
   {"id":"William Tyndale",
    "label":"William Tyndale",
    "type":"Item",
-
    "start":"1494",
    "end":"1536-10-06",
    "eventType":"Bible--Tyndale",
@@ -612,7 +544,6 @@
   {"id":"Tyndale graduates from Oxford with BA",
    "label":"Tyndale graduates from Oxford with BA",
    "type":"Item",
-
    "start":"1512",
    "eventType":"Bible--Tyndale",
    "sources":"Ryken, 24",
@@ -623,7 +554,6 @@
   {"id":"Tyndale graduates from Oxford with MA",
    "label":"Tyndale graduates from Oxford with MA",
    "type":"Item",
-
    "start":"1515",
    "eventType":"Bible--Tyndale",
    "sources":"Ryken, 24",
@@ -634,7 +564,6 @@
   {"id":"Tyndale ordained to priesthood",
    "label":"Tyndale ordained to priesthood",
    "type":"Item",
-
    "start":"1521",
    "eventType":"Bible--Tyndale",
    "sources":"Ryken, 24",
@@ -645,7 +574,6 @@
   {"id":"Tyndale hides in Germany to translate the NT",
    "label":"Tyndale hides in Germany to translate the NT",
    "type":"Item",
-
    "start":"1524",
    "eventType":"Bible--Tyndale",
    "sources":"Ryken, 24",
@@ -656,7 +584,6 @@
   {"id":"Wycliffe Bible",
    "label":"Wycliffe Bible",
    "type":"Item",
-
    "start":"1382",
    "eventType":"Bible--Wycliffe",
    "wikipedia":"http://en.wikipedia.org/wiki/Wycliffe_Bible",
@@ -666,14 +593,12 @@
   {"id":"Wycliffe Bible banned due to association with Lollards",
    "label":"Wycliffe Bible banned due to association with Lollards",
    "type":"Item",
-
    "start":"1408",
    "eventType":"Bible--Wycliffe"
 },
   {"id":"John Wycliffe",
    "label":"John Wycliffe",
    "type":"Item",
-
    "start":"1328",
    "end":"1384-12-31",
    "eventType":"Bible--Wycliffe",
@@ -684,7 +609,6 @@
   {"id":"Wars of the Roses",
    "label":"Wars of the Roses",
    "type":"Item",
-
    "start":"1455",
    "end":"1485",
    "eventType":"Politics",
@@ -695,7 +619,6 @@
   {"id":"The \"Gunpowder Plot\"",
    "label":"The \"Gunpowder Plot\"",
    "type":"Item",
-
    "start":"1605-11-05",
    "description":"The Gunpowder Plot was a failed assassination attempt against King James by a group of provincial English Catholics led by Robert Catesby.",
    "eventType":"Politics",
@@ -706,7 +629,6 @@
   {"id":"English Civil War",
    "label":"English Civil War",
    "type":"Item",
-
    "start":"1642",
    "end":"1651",
    "eventType":"Politics",
@@ -717,7 +639,6 @@
   {"id":"The \"Glorious Revolution\"",
    "label":"The \"Glorious Revolution\"",
    "type":"Item",
-
    "start":"1688",
    "end":"1689",
    "eventType":"Politics",
@@ -728,7 +649,6 @@
   {"id":"Treaty of Union ratified",
    "label":"Treaty of Union ratified",
    "type":"Item",
-
    "start":"1706-07-22",
    "eventType":"Politics",
    "wikipedia":"http://en.wikipedia.org/wiki/Treaty_of_Union",
@@ -738,7 +658,6 @@
   {"id":"Treaty of Union takes effect",
    "label":"Treaty of Union takes effect",
    "type":"Item",
-
    "start":"1707-05-01",
    "eventType":"Politics",
    "wikipedia":"http://en.wikipedia.org/wiki/Treaty_of_Union",
@@ -748,7 +667,6 @@
   {"id":"American Revolution",
    "label":"American Revolution",
    "type":"Item",
-
    "start":"1775-04-19",
    "end":"1783-09-03",
    "eventType":"Politics",
@@ -759,7 +677,6 @@
   {"id":"Edward III",
    "label":"Edward III",
    "type":"Item",
-
    "start":"1327-01-25",
    "end":"1377-06-21",
    "eventType":"Politics",
@@ -770,7 +687,6 @@
   {"id":"Richard II",
    "label":"Richard II",
    "type":"Item",
-
    "start":"1377-06-21",
    "end":"1399-09-29",
    "eventType":"Politics",
@@ -781,7 +697,6 @@
   {"id":"Henry IV",
    "label":"Henry IV",
    "type":"Item",
-
    "start":"1399-09-30",
    "end":"1413-03-20",
    "eventType":"Politics",
@@ -792,7 +707,6 @@
   {"id":"Henry V",
    "label":"Henry V",
    "type":"Item",
-
    "start":"1413-03-21",
    "end":"1422-08-31",
    "eventType":"Politics",
@@ -803,7 +717,6 @@
   {"id":"Henry VI (first reign)",
    "label":"Henry VI (first reign)",
    "type":"Item",
-
    "start":"1422-08-31",
    "end":"1461-03-04",
    "eventType":"Politics",
@@ -814,7 +727,6 @@
   {"id":"Edward IV (first reign)",
    "label":"Edward IV (first reign)",
    "type":"Item",
-
    "start":"1461-03-04",
    "end":"1470-10-02",
    "eventType":"Politics",
@@ -825,7 +737,6 @@
   {"id":"Henry VI (second reign)",
    "label":"Henry VI (second reign)",
    "type":"Item",
-
    "start":"1470-10-30",
    "end":"1471-04-11",
    "eventType":"Politics",
@@ -836,7 +747,6 @@
   {"id":"Edward IV (second reign)",
    "label":"Edward IV (second reign)",
    "type":"Item",
-
    "start":"1471-04-11",
    "end":"1483-04-09",
    "eventType":"Politics",
@@ -847,7 +757,6 @@
   {"id":"Edward V",
    "label":"Edward V",
    "type":"Item",
-
    "start":"1483-04-09",
    "end":"1483-06-26",
    "eventType":"Politics",
@@ -858,7 +767,6 @@
   {"id":"Richard III",
    "label":"Richard III",
    "type":"Item",
-
    "start":"1483-06-26",
    "end":"1485-08-22",
    "eventType":"Politics",
@@ -869,7 +777,6 @@
   {"id":"Henry VII",
    "label":"Henry VII",
    "type":"Item",
-
    "start":"1485-08-22",
    "end":"1509-04-21",
    "eventType":"Politics",
@@ -880,7 +787,6 @@
   {"id":"Henry VIII",
    "label":"Henry VIII",
    "type":"Item",
-
    "start":"1509-04-21",
    "end":"1547-01-28",
    "eventType":"Politics",
@@ -891,7 +797,6 @@
   {"id":"Edward VI",
    "label":"Edward VI",
    "type":"Item",
-
    "start":"1547-01-28",
    "end":"1553-07-06",
    "eventType":"Politics",
@@ -902,7 +807,6 @@
   {"id":"Lady Jane Grey",
    "label":"Lady Jane Grey",
    "type":"Item",
-
    "start":"1553-07-10",
    "description":"Jane Grey's disputed reign lasted only 9 days, ending on July 19, 1553.",
    "eventType":"Politics",
@@ -913,7 +817,6 @@
   {"id":"Mary I",
    "label":"Mary I",
    "type":"Item",
-
    "start":"1553-07-19",
    "end":"1558-11-17",
    "eventType":"Politics",
@@ -924,7 +827,6 @@
   {"id":"Elizabeth I",
    "label":"Elizabeth I",
    "type":"Item",
-
    "start":"1558-11-17",
    "end":"1603-03-24",
    "eventType":"Politics",
@@ -935,7 +837,6 @@
   {"id":"James I",
    "label":"James I",
    "type":"Item",
-
    "start":"1603-03-24",
    "end":"1625-03-25",
    "eventType":"Politics",
@@ -946,7 +847,6 @@
   {"id":"Charles I",
    "label":"Charles I",
    "type":"Item",
-
    "start":"1625-03-27",
    "end":"1649-01-30",
    "eventType":"Politics",
@@ -957,7 +857,6 @@
   {"id":"Commonwealth of England",
    "label":"Commonwealth of England",
    "type":"Item",
-
    "start":"1649-05-19",
    "end":"1660-04-04",
    "eventType":"Politics",
@@ -968,7 +867,6 @@
   {"id":"Charles II",
    "label":"Charles II",
    "type":"Item",
-
    "start":"1660-05-29",
    "end":"1685-02-06",
    "eventType":"Politics",
@@ -979,7 +877,6 @@
   {"id":"James II",
    "label":"James II",
    "type":"Item",
-
    "start":"1685-02-06",
    "end":"1688-12-23",
    "eventType":"Politics",
@@ -990,7 +887,6 @@
   {"id":"Mary II",
    "label":"Mary II",
    "type":"Item",
-
    "start":"1689-02-13",
    "end":"1694-12-28",
    "eventType":"Politics",
@@ -1001,7 +897,6 @@
   {"id":"William III of Orange",
    "label":"William III of Orange",
    "type":"Item",
-
    "start":"1689-02-13",
    "end":"1702-03-08",
    "eventType":"Politics",
@@ -1012,7 +907,6 @@
   {"id":"Anne",
    "label":"Anne",
    "type":"Item",
-
    "start":"1702-03-08",
    "end":"1714-08-01",
    "eventType":"Politics",
@@ -1023,7 +917,6 @@
   {"id":"George I",
    "label":"George I",
    "type":"Item",
-
    "start":"1714-08-01",
    "end":"1727-06-11",
    "eventType":"Politics",
@@ -1034,7 +927,6 @@
   {"id":"George II",
    "label":"George II",
    "type":"Item",
-
    "start":"1727-06-11",
    "end":"1760-10-25",
    "eventType":"Politics",
@@ -1045,7 +937,6 @@
   {"id":"George III",
    "label":"George III",
    "type":"Item",
-
    "start":"1760-10-25",
    "end":"1820-01-29",
    "eventType":"Politics",
@@ -1056,7 +947,6 @@
   {"id":"Cardinal Wolsey burns \"heretical\" Reformation books at St. Paul's Cathedral",
    "label":"Cardinal Wolsey burns \"heretical\" Reformation books at St. Paul's Cathedral",
    "type":"Item",
-
    "start":"1521",
    "eventType":"Religion",
    "sources":"Ryken, 24"
@@ -1064,7 +954,6 @@
   {"id":"Millenary Petition",
    "label":"Millenary Petition",
    "type":"Item",
-
    "start":"1603",
    "description":"The Millenary Petition was a list of requests given to James I by Puritans in 1603 when he was travelling to London in order to claim the English throne. This carefully worded document expressed Puritan distaste regarding the state of the Anglican Church, and took into consideration James' religious views as well as his liking for a debate, as written in <i>Basilikon Doron.</i>While many of the main Puritan goals were rebutted, the petition did culminate in the Hampton Court Conference, which eventually led James to commission a new English translation of the bible, now known as the King James Version.",
    "eventType":"Religion",
@@ -1074,7 +963,6 @@
   {"id":"Richard Bancroft's anti-Puritan canons receive royal approval",
    "label":"Richard Bancroft's anti-Puritan canons receive royal approval",
    "type":"Item",
-
    "start":"1604-03",
    "description":"\"The tension between the prelates of the official church and the Puritans grew during James's reign. In 1604, Richard Bancroft, archbishop of Canterbury, had a series of canons approved in which it was affirmed that episcopal hierarchy was an institution of divine origin, and that without it there could be no true church. This implied a rejection of the many Protestant churches on the Continent that had no bishops, and therefore Puritans saw in it a step towards breaking away from Protestant ties in order to reintroduce Catholicism in England. Besides this, several other canons approved on the archbishop's insistence were clearly directed against Puritans.\"",
    "eventType":"Religion",
@@ -1086,7 +974,6 @@
   {"id":"Erasmus releases his edition of the Greek New Testament text",
    "label":"Erasmus releases his edition of the Greek New Testament text",
    "type":"Item",
-
    "start":"1516",
    "eventType":"Scholarship",
    "sources":"Ryken, 24"
@@ -1094,7 +981,6 @@
   {"id":"David Norton's <i>New Cambridge Paragraph Bible with the Apocrypha</i>",
    "label":"David Norton's <i>New Cambridge Paragraph Bible with the Apocrypha</i>",
    "type":"Item",
-
    "start":"2005",
    "description":"<p>The standard editions of the 1611 King James Bible (or Authorised Version) currently available give, with little variation, the text as established by the Oxford edition of 1769. They give the reader, therefore, a seventeenth-century text in mid-eighteenth century clothes—clothes which are neither original nor modern. In this new edition of the King James Version the text has been collated with the translators' original work in order to give the reader as closely as possible the exact text on which the translators decided. It has also been given consistent modern spelling and presentation in order to make it easier to read and study than standard editions. The text is presented is paragraph form, with marginal notes. The type is 10/12.5 Swift. [Publisher description]</p>",
    "eventType":"Bible--KJV",
@@ -1105,7 +991,6 @@
   {"id":"Holman Christian Standard Bible",
    "label":"Holman Christian Standard Bible",
    "type":"Item",
-
    "start":"2004-03",
    "eventType":"Bible--other",
    "wikipedia":"http://en.wikipedia.org/wiki/HCSB",
@@ -1116,7 +1001,6 @@
   {"id":"NET Bible",
    "label":"NET Bible",
    "type":"Item",
-
    "start":"2005",
    "eventType":"Bible--other",
    "wikipedia":"http://en.wikipedia.org/wiki/NET_Bible"
