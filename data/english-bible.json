@@ -956,14 +956,33 @@
    "type":"Item",
    "start":"0650",
    "eventType":"Bible--other",
-   "sources":"Comfort, Philip W. \“The Christian History Timeline—How We Got Our Bible.\” in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
+   "description":"Caedmon\'s manuscript paraphrases parts of Genesis, Exodus, and Daniel and represents an early example of Anglo-Saxon poetry.",
+   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994).",
+   "wikipedia":"http://en.wikipedia.org/wiki/Caedmon_manuscript",
+   "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Caedmon_ms_Cain.jpg/200px-Caedmon_ms_Cain.jpg",
+   "imagesource":"http://en.wikipedia.org/wiki/File:Caedmon_ms_Cain.jpg",
+   "imagecredit":"Wikipedia"
+},
+{"id":"Richard Rolle and William Shoreham translate psalms into metrical verse",
+   "label":"Richard Rolle and William Shoreham translate psalms into metrical verse",
+   "type":"Item",
+   "start":"1325",
+   "eventType":"Bible--other",
+   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
+},
+{"id":"John Purvey revises Wycliffe Bible",
+   "label":"John Purvey revises Wycliffe Bible",
+   "type":"Item",
+   "start":"1388",
+   "eventType":"Bible--other",
+   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
 },
 {"id":"Bede translates the Gospels",
    "label":"Bede translates the Gospels",
    "type":"Item",
    "start":"0735",
    "eventType":"Bible--other",
-   "sources":"Comfort, Philip W. \“The Christian History Timeline—How We Got Our Bible.\” in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
+   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
 },
 {"id":"King Alfred the Great translates the Psalms and 10 Commandments",
    "label":"King Alfred the Great translates the Psalms and 10 Commandments",
@@ -971,14 +990,14 @@
    "start":"0871",
    "end":"0899",
    "eventType":"Bible--other",
-   "sources":"Comfort, Philip W. \“The Christian History Timeline—How We Got Our Bible.\” in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
+   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
 },
 {"id":"The Lindisfarne Gospels",
    "label":"The 7th-century Lindisfarne Gospels receive English translation",
    "type":"Item",
    "start":"0950",
    "eventType":"Bible--other",
-   "sources":"Comfort, Philip W. \“The Christian History Timeline—How We Got Our Bible.\” in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
+   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
 },
 {"id":"Aelfric translates various Bible books",
    "label":"Aelfric translates various Bible books",
@@ -986,14 +1005,14 @@
    "start":"0955",
    "end":"1020",
    "eventType":"Bible--other",
-   "sources":"Comfort, Philip W. \“The Christian History Timeline—How We Got Our Bible.\” in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
+   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
 },
 {"id":"Invention of eyeglasses aids copying",
    "label":"Invention of eyeglasses aids copying",
    "type":"Item",
    "start":"1300",
    "eventType":"Scholarship",
-   "sources":"Comfort, Philip W. \“The Christian History Timeline—How We Got Our Bible.\” in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
+   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
 },
   {"id":"Millenary Petition",
    "label":"Millenary Petition",
