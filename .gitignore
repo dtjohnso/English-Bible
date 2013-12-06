@@ -11,3 +11,7 @@ data/timeline-sources.bib
 data/timeline-sources.json
 assets/map.png
 assets/timeline.png
+data/medieval.json
+data/tyndale.json
+data/wycliffe.json
+data/kjv.json
