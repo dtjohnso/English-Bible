@@ -1079,6 +1079,27 @@
    "start":"2005",
    "eventType":"Bible--other",
    "wikipedia":"http://en.wikipedia.org/wiki/NET_Bible"
+},
+{"id":"Norman Conquest",
+   "label":"Norman Conquest",
+   "type":"Item",
+   "start":"1066",
+   "eventType":"Politics",
+   "wikipedia":"http://en.wikipedia.org/wiki/Norman_Conquest_of_England",
+   "image":"http://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Norman_conquest_1066.svg/400px-Norman_conquest_1066.svg.png",
+   "imagesource":"http://en.wikipedia.org/wiki/File:Norman_conquest_1066.svg"
+},
+{
+  "id":"Anglo-Saxon period",
+  "label":"Anglo-Saxon period",
+  "start":"0550",
+  "end":"1066",
+  "eventType":"Politics",
+  "type":"Item",
+  "wikipedia":"http://en.wikipedia.org/wiki/Anglo-Saxons",
+  "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sutton_hoo_helmet_room_1_no_flashbrightness_ajusted.JPG/242px-Sutton_hoo_helmet_room_1_no_flashbrightness_ajusted.JPG",
+  "imagesource":"http://en.wikipedia.org/wiki/File:Sutton_hoo_helmet_room_1_no_flashbrightness_ajusted.JPG",
+  "imagecredit":"A reconstruction of the helmet found at Sutton Hoo, probably belonging to Raedwald of East Anglia, who died around 624. Based on a Roman parade-helmet design, it has decorations similar to those found in contemporary Swedish helmets found at Old Uppsala."
 }
  ]
 }
