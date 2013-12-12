@@ -970,6 +970,13 @@
    "eventType":"Bible--other",
    "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
 },
+{"id":"Amplified Bible",
+  "label": "Amplified Bible",
+  "type": "Item",
+  "start": "1965",
+  "eventType": "Bible--other",
+  "sources": "Fee and Stuart, <em>How to Choose a Translation for All Its Worth</em>"
+}
 {"id":"John Purvey revises Wycliffe Bible",
    "label":"John Purvey revises Wycliffe Bible",
    "type":"Item",
