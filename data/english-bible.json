@@ -957,7 +957,7 @@
    "type":"Item",
    "start":"0650",
    "eventType":"Bible--other",
-   "description":"Caedmon\'s manuscript paraphrases parts of Genesis, Exodus, and Daniel and represents an early example of Anglo-Saxon poetry.",
+   "description":"Caedmon's manuscript paraphrases parts of Genesis, Exodus, and Daniel and represents an early example of Anglo-Saxon poetry.",
    "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994).",
    "wikipedia":"http://en.wikipedia.org/wiki/Caedmon_manuscript",
    "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Caedmon_ms_Cain.jpg/200px-Caedmon_ms_Cain.jpg",
@@ -1097,10 +1097,8 @@
    "image":"http://upload.wikimedia.org/wikipedia/en/thumb/f/f2/Norman_conquest_1066.svg/400px-Norman_conquest_1066.svg.png",
    "imagesource":"http://en.wikipedia.org/wiki/File:Norman_conquest_1066.svg"
 },
-{"id":"CRC Church proposes to produce a new translation
-",
-   "label":"CRC Church proposes to produce a new translation
-",
+{"id":"CRC Church proposes to produce a new translation",
+   "label":"CRC Church proposes to produce a new translation",
    "type":"Item",
    "description": "Christian Reformed Church (CRC; formerly known as the Dutch Reformed Church) synod proposes to support the production of a new Bible translation.",
    "start":"1956",
@@ -1137,7 +1135,7 @@
 },
 {"id":"CBT adopts doctrinal statement",
    "label":"CBT adopts doctrinal statement",
-   "description": "CBT adopts the following statement:<blockquote>All those engaged by the Committee as translators or editors shall be required to affirm the following article of faith: \'The Bible alone, and the Bible in its entirety, is the Word of God written, and is therefore inerrant in the autographs\'; or the statement on Scripture in the Westminster Confession, the Belgic Confession, the New Hampshire Confession, or the creedal basis of the National Association of Evangelicals; or some other comparable statement.</blockquote>",
+   "description": "CBT adopts the following statement:<blockquote>All those engaged by the Committee as translators or editors shall be required to affirm the following article of faith: 'The Bible alone, and the Bible in its entirety, is the Word of God written, and is therefore inerrant in the autographs'; or the statement on Scripture in the Westminster Confession, the Belgic Confession, the New Hampshire Confession, or the creedal basis of the National Association of Evangelicals; or some other comparable statement.</blockquote>",
    "type":"Item",
    "start":"1967",
    "wikipedia":"",
