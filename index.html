@@ -34,28 +34,28 @@
   }
   </style>
 -->
-  <!--script>
+<script>
   function myTimelineConstructor(div, eventSource) {
     var theme = Timeline.ClassicTheme.create();
     theme.event.bubble.width = 500; 
     theme.event.bubble.height = 300;
     theme.ether.backgroundColors[1] = theme.ether.backgroundColors[0];
-    var d = Timeline.DateTime.parseGregorianDateTime("1611")
+    // var d = Timeline.DateTime.parseGregorianDateTime("1611")
     var bandInfos = [
     Timeline.createBandInfo({
-      width:          "75%", 
+      width:          "85%", 
       intervalUnit:   Timeline.DateTime.DECADE, 
       intervalPixels: 175,
       eventSource:    eventSource,
-      date:           d,
+      // date:           d,
       theme:          theme
     }),
     Timeline.createBandInfo({
-      width:          "25%", 
+      width:          "15%", 
       intervalUnit:   Timeline.DateTime.CENTURY, 
       intervalPixels: 120,
       eventSource:    eventSource,
-      date:           d,
+      // date:           d,
       overview:       true,
       theme:          theme
     })
@@ -64,10 +64,10 @@
     bandInfos[1].highlight = true;
 
 
-    div.style.height = "400px";
+    div.style.height = "600px";
     return Timeline.create(div, bandInfos, Timeline.HORIZONTAL);
   }
-</script-->
+</script>
 
 </head>
 
@@ -85,8 +85,8 @@
       ex:end=".end"
       ex:colorKey=".eventType"
       ex:bubbleWidth="500"
-      ex:bubbleHeight="300">
-      <!-- ex:timelineConstructor="myTimelineConstructor"> -->
+      ex:bubbleHeight="300"
+      ex:timelineConstructor="myTimelineConstructor">
     </div>
   </td>
   <td width="20%">
