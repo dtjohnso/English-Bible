@@ -434,7 +434,7 @@
    "label":"English Standard Version",
    "type":"Item",
    "start":"2001",
-   "eventType":"Bible--other",
+   "eventType":"Bible--revision",
    "wikipedia":"http://en.wikipedia.org/wiki/English_Standard_Version"
 },
   {"id":"Today's New International Version",
@@ -457,21 +457,21 @@
    "type":"Item",
    "start":"1881",
    "end":"1885",
-   "eventType":"Bible--other",
+   "eventType":"Bible--revision",
    "sources":"Metzger"
 },
   {"id":"American Standard Version",
    "label":"American Standard Version",
    "type":"Item",
    "start":"1901",
-   "eventType":"Bible--other",
+   "eventType":"Bible--revision",
    "sources":"Metzger"
 },
   {"id":"The Revised Standard Version",
    "label":"The Revised Standard Version",
    "type":"Item",
    "start":"1952",
-   "eventType":"Bible--other",
+   "eventType":"Bible--revision",
    "sources":"Metzger"
 },
   {"id":"Coverdale Bible",
