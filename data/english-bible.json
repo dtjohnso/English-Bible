@@ -1103,10 +1103,10 @@
    "type":"Item",
    "description": "Christian Reformed Church (CRC; formerly known as the Dutch Reformed Church) synod proposes to support the production of a new Bible translation.",
    "start":"1956",
-   "wikipedia":"",
-   "image":"",
-   "imagesource":"",
-   "imagecredit":"",
+   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
+   
+   
+   
    "eventType":"Bible--NIV",
    "sources":"Stek, 'The New International Version: How It Came to Be'"
 },
@@ -1115,10 +1115,10 @@
    "description": "Joint Committee on Bible Translation forms from the NAE and the CRC committees with the agenda \"to call a Bible Translation Conference for the purpose of exploring the need for a new English translation or revision of the Bible.\"",
    "type":"Item",
    "start":"1962",
-   "wikipedia":"",
-   "image":"",
-   "imagesource":"",
-   "imagecredit":"",
+   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
+   
+   
+   
    "eventType":"Bible--NIV",
    "sources":"Stek, 'The New International Version: How It Came to Be'"
 },
@@ -1127,10 +1127,10 @@
    "description": "A general conference (organized by the Joint Committee) meets to examine the possibility of broad evangelical support of the translation project  and examines the merits of other translations such as the NASB and RSV. Adopted this consensus: \"It is the sense of this assembly that the preparation of a contemporary English translation should be undertaken as a collegiate endeavor of evangelical scholars.\" A new committee (eventually called the Committee on Bible Translation [CBT]) established to carry on the work of translation and discontinue the Joint Committee.",
    "type":"Item",
    "start":"1965",
-   "wikipedia":"",
-   "image":"",
-   "imagesource":"",
-   "imagecredit":"",
+   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
+   
+   
+   
    "eventType":"Bible--NIV",
    "sources":"Stek, 'The New International Version: How It Came to Be'"
 },
@@ -1139,10 +1139,10 @@
    "description": "CBT adopts the following statement:<blockquote>All those engaged by the Committee as translators or editors shall be required to affirm the following article of faith: 'The Bible alone, and the Bible in its entirety, is the Word of God written, and is therefore inerrant in the autographs'; or the statement on Scripture in the Westminster Confession, the Belgic Confession, the New Hampshire Confession, or the creedal basis of the National Association of Evangelicals; or some other comparable statement.</blockquote>",
    "type":"Item",
    "start":"1967",
-   "wikipedia":"",
-   "image":"",
-   "imagesource":"",
-   "imagecredit":"",
+   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
+   
+   
+   
    "eventType":"Bible--NIV",
    "sources":"Stek, 'The New International Version: How It Came to Be', 244"
 },
@@ -1151,10 +1151,10 @@
    "description": "Translation work begins in earnest under the direction of Edwin H. Palmer, executive secretary of the CBT",
    "type":"Item",
    "start":"1968",
-   "wikipedia":"",
-   "image":"",
-   "imagesource":"",
-   "imagecredit":"",
+   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
+   
+   
+   
    "eventType":"Bible--NIV",
    "sources":"Stek, 'The New International Version: How It Came to Be'"
 },
@@ -1162,10 +1162,10 @@
    "label":"NIV Gospel of John published",
    "type":"Item",
    "start":"1969",
-   "wikipedia":"",
-   "image":"",
-   "imagesource":"",
-   "imagecredit":"",
+   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
+   
+   
+   
    "eventType":"Bible--NIV",
    "sources":"Combs, 7"
 },
@@ -1174,10 +1174,10 @@
    "description": "The name \"New International Version\" is chosen; the text of the New Testament is published",
    "type":"Item",
    "start":"1973",
-   "wikipedia":"",
-   "image":"",
-   "imagesource":"",
-   "imagecredit":"",
+   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
+   
+   
+   
    "eventType":"Bible--NIV",
    "sources":"Stek"
 },
@@ -1186,10 +1186,10 @@
    "description": "A revised edition of both testaments published which incorporates suggestions and criticisms gathered since the publication of the previous editions",
    "type":"Item",
    "start":"1984",
-   "wikipedia":"",
-   "image":"",
-   "imagesource":"",
-   "imagecredit":"",
+   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
+   
+   
+   
    "eventType":"Bible--NIV",
    "sources":""
 },
@@ -1198,10 +1198,10 @@
    "description": "CRC refers the matter to the faculty of Calvin Theological Seminary; National Association of Evangelicals (NAE) establishes a Bible translation committee",
    "type":"Item",
    "start":"1957",
-   "wikipedia":"",
-   "image":"",
-   "imagesource":"",
-   "imagecredit":"",
+   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
+   
+   
+   
    "eventType":"Bible--NIV",
    "sources":"Stek"
 },
@@ -1210,10 +1210,10 @@
    "description": "NAE committee meets with CRC committee about the translation project and agrees to hold a special meeting reaching beyond the constituencies of both (this meeting was not officially sponsored by either the NAE or the CRC)",
    "type":"Item",
    "start":"1961",
-   "wikipedia":"",
-   "image":"",
-   "imagesource":"",
-   "imagecredit":"",
+   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
+   
+   
+   
    "eventType":"Bible--NIV",
    "sources":"Stek"
 },
@@ -1223,10 +1223,10 @@
    "type":"Item",
    "start":"1958",
    "end":"1959",
-   "wikipedia":"",
-   "image":"",
-   "imagesource":"",
-   "imagecredit":"",
+   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
+   
+   
+   
    "eventType":"Bible--NIV",
    "sources":"Stek"
 },
@@ -1235,10 +1235,10 @@
    "description": "International Bible Society (IBS) announces plans to revise the NIV to use the gender-neutral language already employed in the NIVI and the NIrV. Announcement evokes furor from evangelicals and fundamentalists alike. James Dobson convenes meeting of enraged evangelicals and Zondervan/NIV translators on May 27 in Colorado Springs where Zondervan agrees in the \"Colorado Springs Guidelines\" not to revise the NIV to use gender-neutral language.  As a result, the NIVI was pulled and the NIrV was scheduled for revision to bring its gender usage in line with the 1984 NIV",
    "type":"Item",
    "start":"1997-05-27",
-   "wikipedia":"",
-   "image":"",
-   "imagesource":"",
-   "imagecredit":"",
+   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
+   
+   
+   
    "eventType":"Bible--NIV",
    "sources":"Gene Edward Veith, \"Beyond Stealth,\" <em>World</em>, January 29, 2005, 30; Susan Olasky, \"Bailing Out of the Stealth Bible,\" <em>World</em>, June 14, 1997, 13-14."
 },
@@ -1247,10 +1247,10 @@
    "description": "Zondervan reprints the gender-neutral NIrV contrary to 1997 promises.",
    "type":"Item",
    "start":"1998",
-   "wikipedia":"",
-   "image":"",
-   "imagesource":"",
-   "imagecredit":"",
+   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
+   
+   
+   
    "eventType":"Bible--NIV",
    "sources":"Edward E. Plowman, \"October Surprise,\" <em>World</em>, November 21, 1998, 17."
 },
@@ -1259,10 +1259,10 @@
    "description": "IBS announces plans to publish a “new translation” (the Today's New International Version or TNIV) to be sold alongside the existing NIV. Conservatives claim that the announcement is a ploy to enable Zondervan to publish a gender-neutral version while complying with the Colorado Springs Guidelines.",
    "type":"Item",
    "start":"1999",
-   "wikipedia":"",
-   "image":"",
-   "imagesource":"",
-   "imagecredit":"",
+   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
+   
+   
+   
    "eventType":"Bible--NIV",
    "sources":"Gene Edward Veith, \"Beyond Stealth,\" <em>World</em>, January 29, 2005, 30"
 },
