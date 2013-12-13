@@ -1,7 +1,6 @@
 <html>
 <head>
   <title>A Timeline of the English Bible</title>
-  <!-- <title>A Timeline of the English Bible, ca. 1300&ndash;2011.</title> -->
 
   <!-- bib.ly integration -->
   <script src="http://code.bib.ly/bibly.min.js"></script>
@@ -14,48 +13,39 @@
 <!-- 
   <script src="http://api.simile-widgets.org/exhibit/3.0.0rc1/exhibit-api.js" type= "text/javascript"></script>
   <script src="http://api.simile-widgets.org/exhibit/3.0.0rc1/extensions/time/time-extension.js" type="text/javascript"></script> 
+-->
 
--->  <!-- Old data file <link rel="exhibit/data"type="application/jsonp"href="https://spreadsheets.google.com/feeds/list/0Al49R2dL41V5dGZEQ2JQaE0zY21yejk5V3pySTl6NHc/od6/public/basic?alt=json-in-script"ex:converter="googleSpreadsheets" />  --> 
-
-<!-- Data file compressed --><!-- <link rel="exhibit/data" type="application/json" href="data/english-bible-compressed.json" /> -->
-<!-- Data file uncompressed --><link rel="exhibit/data" type="application/json" href="data/english-bible.json" />
+<!-- Data file compressed -->
+<!-- Produced at http://bigaqua.org/minify_json.html -->
+<link rel="exhibit/data" type="application/json" href="data/english-bible-compressed.json" />
+<!-- Data file uncompressed --><!-- <link rel="exhibit/data" type="application/json" href="data/english-bible.json" /> -->
 
 <!-- Styling -->
 <link rel="stylesheet" href="assets/style.css" />
 <link href='http://fonts.googleapis.com/css?family=Belgrano' rel='stylesheet' type='text/css'>
 
-<!-- 
-  <style>
-  .credit {
-    color: DimGrey;
-    font-family: sans-serif;
-    font-size: xx-small;
-    font-weight: bold;
-  }
-  </style>
--->
-  <!--script>
+<script>
   function myTimelineConstructor(div, eventSource) {
     var theme = Timeline.ClassicTheme.create();
     theme.event.bubble.width = 500; 
     theme.event.bubble.height = 300;
     theme.ether.backgroundColors[1] = theme.ether.backgroundColors[0];
-    var d = Timeline.DateTime.parseGregorianDateTime("1611")
+    // var d = Timeline.DateTime.parseGregorianDateTime("1611")
     var bandInfos = [
     Timeline.createBandInfo({
-      width:          "75%", 
+      width:          "85%", 
       intervalUnit:   Timeline.DateTime.DECADE, 
       intervalPixels: 175,
       eventSource:    eventSource,
-      date:           d,
+      // date:           d,
       theme:          theme
     }),
     Timeline.createBandInfo({
-      width:          "25%", 
+      width:          "15%", 
       intervalUnit:   Timeline.DateTime.CENTURY, 
       intervalPixels: 120,
       eventSource:    eventSource,
-      date:           d,
+      // date:           d,
       overview:       true,
       theme:          theme
     })
@@ -64,29 +54,40 @@
     bandInfos[1].highlight = true;
 
 
-    div.style.height = "400px";
+    div.style.height = "500px";
     return Timeline.create(div, bandInfos, Timeline.HORIZONTAL);
   }
-</script-->
+</script>
 
+<script type="text/javascript">
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-17819874-2']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+</script>
 </head>
 
 <body>
   <div class="boilerplate">
-    <h1>A Timeline of the English Bible<!-- , <i>ca.</i> 1300&ndash;2011. --></h1>
+    <h1>A Timeline of the English Bible</h1>
   </div>
 
   <table width="100%" cellspacing="20px">
    <tr valign="top">
     <td>
-      <div ex:role="view"
+      <div class="timeline" ex:role="view"
       ex:viewClass="Timeline"
       ex:start=".start"
       ex:end=".end"
       ex:colorKey=".eventType"
       ex:bubbleWidth="500"
-      ex:bubbleHeight="300">
-      <!-- ex:timelineConstructor="myTimelineConstructor"> -->
+      ex:bubbleHeight="300"
+      ex:timelineConstructor="myTimelineConstructor">
     </div>
   </td>
   <td width="20%">
