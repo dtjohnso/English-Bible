@@ -1248,9 +1248,6 @@
    "type":"Item",
    "start":"1998",
    "wikipedia":"http://en.wikipedia.org/wiki/NIV",
-   
-   
-   
    "eventType":"Bible--NIV",
    "sources":"Edward E. Plowman, \"October Surprise,\" <em>World</em>, November 21, 1998, 17."
 },
@@ -1259,13 +1256,19 @@
    "description": "IBS announces plans to publish a “new translation” (the Today's New International Version or TNIV) to be sold alongside the existing NIV. Conservatives claim that the announcement is a ploy to enable Zondervan to publish a gender-neutral version while complying with the Colorado Springs Guidelines.",
    "type":"Item",
    "start":"1999",
-   "wikipedia":"http://en.wikipedia.org/wiki/NIV",
-   
-   
-   
+   "wikipedia":"http://en.wikipedia.org/wiki/TNIV",
    "eventType":"Bible--NIV",
    "sources":"Gene Edward Veith, \"Beyond Stealth,\" <em>World</em>, January 29, 2005, 30"
 },
+{"id":"TNIV New Testament released",
+   "label":"TNIV New Testament released",
+   "type":"Item",
+   "start":"2002",
+   "wikipedia":"http://en.wikipedia.org/wiki/TNIV",
+   "eventType":"Bible--NIV",
+   "sources":"Combs, 23."
+},
+
 {
   "id":"Anglo-Saxon period",
   "label":"Anglo-Saxon period",
