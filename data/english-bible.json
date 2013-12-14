@@ -1280,7 +1280,31 @@
    "eventType":"Scholarship",
    "sources":"Brake, 245."
 },
-
+{"id":"Tischendorf publishes various editions of the Greek New Testament",
+   "label":"Tischendorf publishes various editions of the Greek New Testament",
+   "description": "Tischendorf produced eight editions of the Greek New Testament over his productive career, and is also remembered for his discovery of Codex Sinaiticus.",
+   "type":"Item",
+   "start":"1841",
+   "wikipedia":"http://en.wikipedia.org/wiki/Constantin_von_Tischendorf",
+   "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Tischendorf_um_1870.jpg/220px-Tischendorf_um_1870.jpg",
+   "imagesource":"http://en.wikipedia.org/wiki/File:Tischendorf_um_1870.jpg",
+   "imagecredit":"Wikipedia",
+   "eventType":"Scholarship",
+   "sources":"Brake, 245",
+   "end": "1872"
+},
+{"id":"Westcott & Hort publish Greek New Testament",
+   "label":"Westcott & Hort publish Greek New Testament",
+   "description": "This edition of the Greek New Testament, the product of 28 years of work, represents an early edition of the critical text tradition.",
+   "type":"Item",
+   "start":"1881",
+   "wikipedia":"http://en.wikipedia.org/wiki/The_New_Testament_in_the_Original_Greek",
+   "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/The_New_Testament_in_the_original_Greek_-_1881.djvu/page9-220px-The_New_Testament_in_the_original_Greek_-_1881.djvu.jpg",
+   "imagesource":"http://en.wikipedia.org/w/index.php?title=File:The_New_Testament_in_the_original_Greek_-_1881.djvu&page=9",
+   "imagecredit":"Wikipedia",
+   "eventType":"Scholarship",
+   "sources":"Brake, 245-248."
+},
 {
   "id":"Anglo-Saxon period",
   "label":"Anglo-Saxon period",
