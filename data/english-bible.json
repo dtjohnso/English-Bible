@@ -1305,6 +1305,19 @@
    "eventType":"Scholarship",
    "sources":"Brake, 245-248."
 },
+{"id":"Discovery of the Dead Sea Scrolls",
+   "label":"Discovery of the Dead Sea Scrolls",
+   "description": "The Dead Sea Scrolls include a number of important copies of the Hebrew Old Testament.",
+   "type":"Item",
+   "start":"1947",
+   "wikipedia":"http://en.wikipedia.org/wiki/Dead_sea_scrolls",
+   "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Psalms_Scroll.jpg/400px-Psalms_Scroll.jpg",
+   "imagesource":"http://en.wikipedia.org/wiki/File:Psalms_Scroll.jpg",
+   "imagecredit":"Wikipedia",
+   "eventType":"Scholarship",
+   "sources":"“The Dead Sea Scrolls - Discovery and Publication,” accessed December 13, 2013, <a href='http://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication' target='_blank'>http://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication</a>."
+},
+
 {
   "id":"Anglo-Saxon period",
   "label":"Anglo-Saxon period",
