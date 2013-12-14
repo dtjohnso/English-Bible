@@ -1268,6 +1268,18 @@
    "eventType":"Bible--NIV",
    "sources":"Combs, 23."
 },
+{"id":"Tischendorf discovers Codex Sinaiticus at St. Catherine's Monastery",
+   "label":"Tischendorf discovers Codex Sinaiticus at St. Catherine's Monastery",
+   "description": "Codex Sinaiticus is one of the oldest known Greek manuscripts. Composed sometime between AD 325 and AD 360, it contains portions of the Septuagint and the Greek New Testament.",
+   "type":"Item",
+   "start":"1844",
+   "wikipedia":"http://en.wikipedia.org/wiki/Codex_Sinaiticus",
+   "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Codex_Sinaiticus-small.jpg/220px-Codex_Sinaiticus-small.jpg",
+   "imagesource":"http://en.wikipedia.org/wiki/File:Codex_Sinaiticus-small.jpg",
+   "imagecredit":"Wikipedia",
+   "eventType":"Scholarship",
+   "sources":"Brake, 245."
+},
 
 {
   "id":"Anglo-Saxon period",
