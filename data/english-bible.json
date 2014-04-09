@@ -1317,6 +1317,18 @@
    "eventType":"Scholarship",
    "sources":"“The Dead Sea Scrolls - Discovery and Publication,” accessed December 13, 2013, <a href='http://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication' target='_blank'>http://www.deadseascrolls.org.il/learn-about-the-scrolls/discovery-and-publication</a>."
 },
+{"id":"Gutenberg prints copies of the Latin Vulgate, known as the 'Gutenberg Bible'",
+   "label":"Gutenberg prints copies of the Latin Vulgate, known as the 'Gutenberg Bible'",
+   "type":"Item",
+   "start":"1454",
+   "end":"1455",
+   "wikipedia":"http://en.wikipedia.org/wiki/Gutenberg_Bible",
+   "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/350px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg",
+   "imagesource":"http://en.wikipedia.org/wiki/File:Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg",
+   "imagecredit":"Wikipedia",
+   "eventType":"Scholarship",
+   "sources":"Brake, 227."
+},
 
 {
   "id":"Anglo-Saxon period",
