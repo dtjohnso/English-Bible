@@ -1329,7 +1329,6 @@
    "eventType":"Scholarship",
    "sources":"Brake, 227."
 },
-
 {
   "id":"Anglo-Saxon period",
   "label":"Anglo-Saxon period",
@@ -1341,6 +1340,16 @@
   "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Sutton_hoo_helmet_room_1_no_flashbrightness_ajusted.JPG/242px-Sutton_hoo_helmet_room_1_no_flashbrightness_ajusted.JPG",
   "imagesource":"http://en.wikipedia.org/wiki/File:Sutton_hoo_helmet_room_1_no_flashbrightness_ajusted.JPG",
   "imagecredit":"A reconstruction of the helmet found at Sutton Hoo, probably belonging to Raedwald of East Anglia, who died around 624. Based on a Roman parade-helmet design, it has decorations similar to those found in contemporary Swedish helmets found at Old Uppsala."
+},
+{
+  "id": "Crossway obtains permission to use RSV as base for ESV",
+  "label": "Crossway obtains permission to use RSV as base for ESV",
+  "start": "1998",
+  "type": "Item",
+  "description": "'In 1998, [Wayne] Grudem and Lane Dennis, president of Crossway Books, obtained permission from the National Council of Churches, which owned the [RSV] copyright, to use the 1971 revision of the RSV as the starting point for their new version. The RSV itself had already been replaced by the <em>New Revised Standard Version</em> in 1990. In 1999 Crossway announced that the ESV would be forthcoming.'",
+   "eventType":"Bible--revision",
+   "wikipedia":"http://en.wikipedia.org/wiki/English_Standard_Version",
+   "sources": "Combs, 12."
 }
  ]
 }
