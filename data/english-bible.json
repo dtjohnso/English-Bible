@@ -1350,6 +1350,41 @@
    "eventType":"Bible--revision",
    "wikipedia":"http://en.wikipedia.org/wiki/English_Standard_Version",
    "sources": "Combs, 12."
+},
+{"id":"The Living Bible",
+   "label":"The Living Bible",
+   "description": "The Living Bible",
+   "type":"Item",
+   "start":"1971",
+   "wikipedia":"https://en.wikipedia.org/wiki/The_Living_Bible",
+   "image":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3f/Living_Bible.jpg/225px-Living_Bible.jpg",
+   "imagesource":"https://en.wikipedia.org/wiki/File:Living_Bible.jpg",
+   "imagecredit":"Wikipedia",
+   "eventType":"Bible--other"
+},
+{"id":"New Living Translation (NLT)",
+   "label":"New Living Translation (NLT)",
+   "description": "New Living Translation (NLT)",
+   "type":"Item",
+   "start":"1996 ",
+   "wikipedia":"https://en.wikipedia.org/wiki/New_Living_Translation",
+   "eventType":"Bible--other"
+},
+{"id":"New Living Translation (NLT), second edition",
+   "label":"New Living Translation (NLT), second edition",
+   "description": "New Living Translation (NLT), second edition",
+   "type":"Item",
+   "start":"2004",
+   "wikipedia":"https://en.wikipedia.org/wiki/New_Living_Translation",
+   "eventType":"Bible--other"
+},
+{"id":"revision to NLT",
+   "label":"revision to NLT",
+   "description": "revision to NLT",
+   "type":"Item",
+   "start":"2007",
+   "wikipedia":"https://en.wikipedia.org/wiki/New_Living_Translation",
+   "eventType":"Bible--other"
 }
  ]
 }
