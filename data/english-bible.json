@@ -1385,6 +1385,29 @@
    "start":"2007",
    "wikipedia":"https://en.wikipedia.org/wiki/New_Living_Translation",
    "eventType":"Bible--other"
+},
+{"id":"James Barr publishes The Semantics of Biblical Language",
+   "label":"James Barr publishes The Semantics of Biblical Language",
+   "description": "<p>James Barr's <em>The Semantics of Biblical Language</em> massively influenced evangelical scholarship and modern Bible translation. Despite Barr's controversial claims and rejection of inerrancy, his contributions have been helpful to conservative scholars (including his student Moisés Silva). The current publisher's description summarizes the book's influence as follows:</p><blockquote><p>Behind the academic and innocently descriptive title of this book is to be found one of the most explosive works of biblical scholarship to be published in the 20th century. Certainly many of those who read it when it first appeared were never the same again, and it signalled the end of what had hitherto been a flourishing literature on biblical theology.</p><p>\"In recent years,\" Barr writes in the Preface, \"I have come to believe that one of the greatest dangers to sound and adequate interpretation of the Bible comes from the prevailing use of procedure which, while claiming to rest upon a knowledge of the Israelite and Greek ways of thinking, constantly mishandles and distorts the linguistic evidence of the Hebrew and Greek languages as they are used in the Bible. The increasing sense of dependence upon the Bible in the modern church only makes this danger more serious. The fact that these procedures have never to my knowledge been collected, analysed, and criticized in detail was the chief stimulus to my undertaking of this task myself.\"</p><p>His conclusions brought much criticism initially, but forty years later they still stand. This book is essential reading for any student of the Bible.</p></blockquote>",
+   "type":"Item",
+   "start":"1961",
+   "wikipedia":"https://en.wikipedia.org/wiki/James_Barr_(biblical_scholar)",
+   "image":"https://books.google.ca/books/content?id=FxRLAwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE721HjIgHdk6F7qTnHpVF1zmsfdmJ2uF4H2NngqdzTIc5bFOV-6MvIpMmstH2VeyS1v-TrN0NQKXVu4xMzswbcoW-T8GDWV6TT_8C4IBPZKf6LwM27mtdROPaOMuh4uUACjCoF_j",
+   "imagesource":"https://books.google.ca/books?id=FxRLAwAAQBAJ&source=gbs_book_other_versions",
+   "imagecredit":"Google Books",
+   "eventType":"Scholarship"
+},
+{"id":"Moisés Silva publishes Biblical Words and Their Meaning",
+   "label":"Moisés Silva publishes Biblical Words and Their Meaning",
+   "description": "Moisés Silva's <em>Biblical Words and Their Meaning</em> has positively impacted conservative biblical scholarship.",
+   "type":"Item",
+   "start":"1983",
+   "wikipedia":"https://en.wikipedia.org/wiki/Mois%C3%A9s_Silva",
+   "image":"https://books.google.ca/books/content?id=lulsBdkfoLUC&printsec=frontcover&img=1&zoom=1&edge=curl&imgtk=AFLRE71D90FpiTnacMA4W5IoP5h-yG_IOc-WZlt6_idO3IP8LWp2lHLmOKyul8C0ejAbQ0xgMFbiuRUoSB8WXSX5io_gCleoefqrYhbMk3T_tL-VXjwRTgxNnK9g6jl9zw3uCU0dsrKk",
+   "imagesource":"https://books.google.ca/books/about/Biblical_Words_and_Their_Meaning.html?id=lulsBdkfoLUC&source=kp_cover&redir_esc=y",
+   "imagecredit":"Google Books",
+   "eventType":"Scholarship"
 }
+
  ]
 }
