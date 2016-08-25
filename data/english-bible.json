@@ -1407,7 +1407,17 @@
    "imagesource":"https://books.google.ca/books/about/Biblical_Words_and_Their_Meaning.html?id=lulsBdkfoLUC&source=kp_cover&redir_esc=y",
    "imagecredit":"Google Books",
    "eventType":"Scholarship"
+},
+{"id":"Crossway releases ESV Permanent Text edition",
+   "label":"Crossway releases ESV Permanent Text edition",
+   "description": "Publisher explanation: Beginning in the summer of 2016, the text of the ESV Bible will remain unchanged—in the same way that the King James Version (KJV) has remained unchanged ever since the final KJV text was established almost 250 years ago (in 1769). Thus, all present and future editions of the ESV reprinted and published by Crossway will contain the Permanent Text of the ESV Bible—throughout the life of the copyright, in perpetuity. This means that current readers of the ESV Bible—as well as their children and grandchildren—will be able to read, study, and memorize the ESV unchanged for generations to come. Click here to see a complete list of word changes in the ESV text.",
+   "type":"Item",
+   "start":"2016",
+   "wikipedia":"http://en.wikipedia.org/wiki/English_Standard_Version",
+   "eventType":"Bible--revision",
+   "sources":"<a href='http://www.esv.org/about/pt-changes/'>Crossway announcement page</a>; Copy stored on <a href='https://web.archive.org/web/20160825163634/http://www.esv.org/about/pt-changes/'>Internet Archive</a>"
 }
+
 
  ]
 }
