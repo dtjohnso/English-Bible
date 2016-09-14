@@ -1416,6 +1416,15 @@
    "wikipedia":"http://en.wikipedia.org/wiki/English_Standard_Version",
    "eventType":"Bible--revision",
    "sources":"<a href='http://www.esv.org/about/pt-changes/'>Crossway announcement page</a>; Copy stored on <a href='https://web.archive.org/web/20160825163634/http://www.esv.org/about/pt-changes/'>Internet Archive</a>"
+},
+{"id":"B&H announces forthcoming revision to HCSB",
+   "label":"B&H announces forthcoming revision to HCSB",
+   "description": "From press release: B&H Publishing Group announced today the completed revision of the Holman Christian Standard Bible (HCSB). Renamed the Christian Standard Bible® (CSB), the text will be available in a full line of Bibles for readers of all ages, with initial products releasing March 2017. Bibles in the HCSB will continue to be available in its award-winning product lines through 2017.",
+   "type":"Item",
+   "start":"2016-06-21",
+   "wikipedia":"http://en.wikipedia.org/wiki/HCSB",
+   "eventType":"Bible--other",
+   "sources":"http://www.bhpublishinggroup.com/press-release/bh-to-launch-christian-standard-bible-csb-version-in-2017"
 }
 
 
