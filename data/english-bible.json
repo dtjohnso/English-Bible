@@ -435,7 +435,7 @@
    "label":"English Standard Version",
    "type":"Item",
    "start":"2001",
-   "eventType":"Bible--revision",
+   "eventType":"Bible--ESV",
    "wikipedia":"http://en.wikipedia.org/wiki/English_Standard_Version"
 },
   {"id":"Today's New International Version",
@@ -1347,7 +1347,7 @@
   "start": "1998",
   "type": "Item",
   "description": "'In 1998, [Wayne] Grudem and Lane Dennis, president of Crossway Books, obtained permission from the National Council of Churches, which owned the [RSV] copyright, to use the 1971 revision of the RSV as the starting point for their new version. The RSV itself had already been replaced by the <em>New Revised Standard Version</em> in 1990. In 1999 Crossway announced that the ESV would be forthcoming.'",
-   "eventType":"Bible--revision",
+   "eventType":"Bible--ESV",
    "wikipedia":"http://en.wikipedia.org/wiki/English_Standard_Version",
    "sources": "Combs, 12."
 },
@@ -1414,7 +1414,7 @@
    "type":"Item",
    "start":"2016",
    "wikipedia":"http://en.wikipedia.org/wiki/English_Standard_Version",
-   "eventType":"Bible--revision",
+   "eventType":"Bible--ESV",
    "sources":"<a href='http://www.esv.org/about/pt-changes/'>Crossway announcement page</a>; Copy stored on <a href='https://web.archive.org/web/20160825163634/http://www.esv.org/about/pt-changes/'>Internet Archive</a>"
 },
 {"id":"B&H announces forthcoming revision to HCSB",
@@ -1425,6 +1425,22 @@
    "wikipedia":"http://en.wikipedia.org/wiki/HCSB",
    "eventType":"Bible--other",
    "sources":"<a href='http://www.bhpublishinggroup.com/press-release/bh-to-launch-christian-standard-bible-csb-version-in-2017'>Press release</a>"
+},
+{"id":"Minor revision to ESV",
+   "label":"Minor revision to ESV",
+   "description": "Wikipedia: The ESV underwent a minor revision in 2007, and the publisher did not identify the updated text as a revised edition. The update changed about 500 words by focusing on grammar, consistency and clarity. The most notable change was 'wounded for our transgressions' to 'pierced for our transgressions.'",
+   "type":"Item",
+   "start":"2007",
+   "wikipedia":"https://en.wikipedia.org/wiki/English_Standard_Version#Revisions",
+   "eventType":"Bible--ESV"
+},
+{"id":"Second minor revision to ESV",
+   "label":"Second minor revision to ESV",
+   "description": "This revision represented a subsequent update to the 2007 edition.",
+   "type":"Item",
+   "start":"2011",
+   "wikipedia":"https://en.wikipedia.org/wiki/English_Standard_Version#Revisions",
+   "eventType":"Bible--ESV"
 }
 
 
