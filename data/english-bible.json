@@ -1424,7 +1424,7 @@
    "start":"2016-06-21",
    "wikipedia":"http://en.wikipedia.org/wiki/HCSB",
    "eventType":"Bible--other",
-   "sources":"<a href='http://www.bhpublishinggroup.com/press-release/bh-to-launch-christian-standard-bible-csb-version-in-2017'>Press release</a>"
+   "sources":"<a href='http://www.bhpublishinggroup.com/press-release/bh-to-launch-christian-standard-bible-csb-version-in-2017'>Press release</a>; Copy stored on <a href='http://web.archive.org/web/20160929005231/http://www.bhpublishinggroup.com/press-release/bh-to-launch-christian-standard-bible-csb-version-in-2017'>archive.org</a>"
 },
 {"id":"Minor revision to ESV",
    "label":"Minor revision to ESV",
@@ -1441,7 +1441,17 @@
    "start":"2011",
    "wikipedia":"https://en.wikipedia.org/wiki/English_Standard_Version#Revisions",
    "eventType":"Bible--ESV"
+},
+{"id":"Crossway reverses decision to release ESV Permanent Text",
+   "label":"Crossway reverses decision to release ESV Permanent Text",
+   "description": "<p>Crossway announces that they 'have become convinced' that the decision to release a permanent text was a mistake:</p><blockquote><p>We have become convinced that this decision was a mistake. We apologize for this and for any concern this has caused for readers of the ESV, and we want to explain what we now believe to be the way forward. Our desire, above all, is to do what is right before the Lord.</p><p>Our goal at Crossway remains as strong as ever to serve future generations with a stable ESV text. But the means to that goal, we now see, is not to establish a permanent text but rather to allow for ongoing periodic updating of the text to reflect the realities of biblical scholarship such as textual discoveries or changes in English over time. These kinds of updates will be minimal and infrequent, but fidelity to Scripture requires that we remain open in principle to such changes, as the Crossway Board of Directors and the ESV Translation Oversight Committee see fit in years ahead.</p></blockquote><p>See the source blog post for the full statement.</p>",
+   "type":"Item",
+   "start":"2016-09-28",
+   "wikipedia":"http://en.wikipedia.org/wiki/English_Standard_Version",
+   "eventType":"Bible--ESV",
+   "sources":"<a href='http://web.archive.org/web/20160929004517/https://www.crossway.org/blog/2016/09/crossway-statement-on-the-esv-bible-text/'>Press release (archive.org copy)</a>"
 }
+
 
 
  ]
