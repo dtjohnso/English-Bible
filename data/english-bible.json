@@ -46,23 +46,23 @@
    "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Richard_Bancroft.png/200px-Richard_Bancroft.png",
    "imagesource":"http://en.wikipedia.org/wiki/File:Richard_Bancroft.png"
 },
-  {"id":"The \"Wicked Bible\"",
-   "label":"The \"Wicked Bible\"",
+  {"id":"The &quot;Wicked Bible&quot;",
+   "label":"The &quot;Wicked Bible&quot;",
    "type":"Item",
    "start":"1631",
-   "description":"Robert Barker and Martin Lucas' 1631 reprint of the KJV included a serious compositor's mistake, incorrectly printing Exodus 20:14 as \"Thou shalt commit adultery.\"",
+   "description":"Robert Barker and Martin Lucas' 1631 reprint of the KJV included a serious compositor's mistake, incorrectly printing Exodus 20:14 as &quot;Thou shalt commit adultery.&quot;",
    "eventType":"Bible--KJV",
    "wikipedia":"http://en.wikipedia.org/wiki/Wicked_Bible",
    "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Wickedbible.jpg/220px-Wickedbible.jpg",
    "imagesource":"http://en.wikipedia.org/wiki/File:Wickedbible.jpg"
 },
-  {"id":"The \"Vinegar Bible\"",
-   "label":"The \"Vinegar Bible\"",
+  {"id":"The &quot;Vinegar Bible&quot;",
+   "label":"The &quot;Vinegar Bible&quot;",
    "type":"Item",
    "start":"1717",
    "description":"At the top of the page containing the twentieth chapter of the Book of Luke, with its parable of the vineyard, the typesetter of this Oxford Bible inadvertently set the page-head to read 'The parable of the vinegar.'",
    "eventType":"Bible--KJV",
-   "sources":"<a href=\"http://library.bju.edu/record=b1331537\" target=\"_blank\">Copy in the Mack Library collection</a>",
+   "sources":"<a href=&quot;http://library.bju.edu/record=b1331537&quot; target=&quot;_blank&quot;>Copy in the Mack Library collection</a>",
    "wikipedia":"http://en.wikipedia.org/wiki/Vinegar_Bible",
    "image":"http://rookery9.aviary.com.s3.amazonaws.com/6510000/6510358_a656.png",
    "imagesource":"http://library.bju.edu/record=b1331537",
@@ -133,7 +133,7 @@
    "type":"Item",
    "start":"1612",
    "end":"1617",
-   "description":"\"This short period sees no fewer than thirty printings of the KJB. Careless mistakes continue to be found and deliberate changes start to creep in.\"",
+   "description":"&quot;This short period sees no fewer than thirty printings of the KJB. Careless mistakes continue to be found and deliberate changes start to creep in.&quot;",
    "eventType":"Bible--KJV",
    "sources":"Wong, Simon. “Which King James Bible Are We Referring To?” <i>Bible Translator</i> 62, no. 1 (January 2011): 1-11."
 },
@@ -167,19 +167,19 @@
    "eventType":"Bible--KJV",
    "sources":"Wong, Simon. “Which King James Bible Are We Referring To?” <i>Bible Translator</i> 62, no. 1 (January 2011): 1-11."
 },
-  {"id":"The \"Printer's Bible\"",
-   "label":"The \"Printer's Bible\"",
+  {"id":"The &quot;Printer's Bible&quot;",
+   "label":"The &quot;Printer's Bible&quot;",
    "type":"Item",
    "start":"1612",
-   "description":"\"One amusing mistake from the printer found in some copies of the 1612 edition is the substitution of \"Printers\" for \"Princes\" in Ps. 119:161: 'Princes [Printers] have persecuted me without a cause' (the 1611 edition has 'Princes').\"",
+   "description":"&quot;One amusing mistake from the printer found in some copies of the 1612 edition is the substitution of &quot;Printers&quot; for &quot;Princes&quot; in Ps. 119:161: 'Princes [Printers] have persecuted me without a cause' (the 1611 edition has 'Princes').&quot;",
    "eventType":"Bible--KJV",
    "sources":"Wong, Simon. “Which King James Bible Are We Referring To?” <i>Bible Translator</i> 62, no. 1 (January 2011): 1-11."
 },
-  {"id":"The \"Unrighteous Bible\"",
-   "label":"The \"Unrighteous Bible\"",
+  {"id":"The &quot;Unrighteous Bible&quot;",
+   "label":"The &quot;Unrighteous Bible&quot;",
    "type":"Item",
    "start":"1653",
-   "description":"This misprint rendered 1 Corinthians 6:9 as \"the unrighteous shall inherit the kingdom of God\" instead of \"shall not inherit.\"",
+   "description":"This misprint rendered 1 Corinthians 6:9 as &quot;the unrighteous shall inherit the kingdom of God&quot; instead of &quot;shall not inherit.&quot;",
    "eventType":"Bible--KJV",
    "sources":"Wong, Simon. “Which King James Bible Are We Referring To?” <i>Bible Translator</i> 62, no. 1 (January 2011): 1-11."
 },
@@ -618,8 +618,8 @@
    "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Battle_of_Barnet_retouched.jpg/220px-Battle_of_Barnet_retouched.jpg",
    "imagesource":"http://en.wikipedia.org/wiki/File:Battle_of_Barnet_retouched.jpg"
 },
-  {"id":"The \"Gunpowder Plot\"",
-   "label":"The \"Gunpowder Plot\"",
+  {"id":"The &quot;Gunpowder Plot&quot;",
+   "label":"The &quot;Gunpowder Plot&quot;",
    "type":"Item",
    "start":"1605-11-05",
    "description":"The Gunpowder Plot was a failed assassination attempt against King James by a group of provincial English Catholics led by Robert Catesby.",
@@ -638,8 +638,8 @@
    "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Burton%2C_William_Shakespeare-_The_Wounded_Cavalier.jpg/300px-Burton%2C_William_Shakespeare-_The_Wounded_Cavalier.jpg",
    "imagesource":"http://en.wikipedia.org/wiki/File:Burton,_William_Shakespeare-_The_Wounded_Cavalier.jpg"
 },
-  {"id":"The \"Glorious Revolution\"",
-   "label":"The \"Glorious Revolution\"",
+  {"id":"The &quot;Glorious Revolution&quot;",
+   "label":"The &quot;Glorious Revolution&quot;",
    "type":"Item",
    "start":"1688",
    "end":"1689",
@@ -946,8 +946,8 @@
    "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/George_III_in_Coronation_edit.jpg/210px-George_III_in_Coronation_edit.jpg",
    "imagesource":"http://en.wikipedia.org/wiki/File:George_III_in_Coronation_edit.jpg"
 },
-  {"id":"Cardinal Wolsey burns \"heretical\" Reformation books at St. Paul's Cathedral",
-   "label":"Cardinal Wolsey burns \"heretical\" Reformation books at St. Paul's Cathedral",
+  {"id":"Cardinal Wolsey burns &quot;heretical&quot; Reformation books at St. Paul's Cathedral",
+   "label":"Cardinal Wolsey burns &quot;heretical&quot; Reformation books at St. Paul's Cathedral",
    "type":"Item",
    "start":"1521",
    "eventType":"Religion",
@@ -959,7 +959,7 @@
    "start":"0650",
    "eventType":"Bible--other",
    "description":"Caedmon's manuscript paraphrases parts of Genesis, Exodus, and Daniel and represents an early example of Anglo-Saxon poetry.",
-   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994).",
+   "sources":"Comfort, Philip W. &quot;The Christian History Timeline—How We Got Our Bible.&quot; in &quot;How We Got Our Bible, Canon to King James,&quot; <i>Christian History Magazine<i> no. 43 (1994).",
    "wikipedia":"http://en.wikipedia.org/wiki/Caedmon_manuscript",
    "image":"http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Caedmon_ms_Cain.jpg/200px-Caedmon_ms_Cain.jpg",
    "imagesource":"http://en.wikipedia.org/wiki/File:Caedmon_ms_Cain.jpg",
@@ -970,7 +970,7 @@
    "type":"Item",
    "start":"1325",
    "eventType":"Bible--other",
-   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
+   "sources":"Comfort, Philip W. &quot;The Christian History Timeline—How We Got Our Bible.&quot; in &quot;How We Got Our Bible, Canon to King James,&quot; <i>Christian History Magazine<i> no. 43 (1994)."
 },
 {"id":"Amplified Bible",
   "label": "Amplified Bible",
@@ -984,7 +984,7 @@
    "type":"Item",
    "start":"1388",
    "eventType":"Bible--Wycliffe",
-   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
+   "sources":"Comfort, Philip W. &quot;The Christian History Timeline—How We Got Our Bible.&quot; in &quot;How We Got Our Bible, Canon to King James,&quot; <i>Christian History Magazine<i> no. 43 (1994)."
 },
 {"id":"Bede translates the Gospels",
    "label":"Bede translates the Gospels",
@@ -995,7 +995,7 @@
    "image":"http://upload.wikimedia.org/wikipedia/commons/7/78/The_Venerable_Bede_translates_John_1902.jpg",
    "imagesource":"http://en.wikipedia.org/wiki/File:The_Venerable_Bede_translates_John_1902.jpg",
    "imagecredit":"Wikipedia",
-   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
+   "sources":"Comfort, Philip W. &quot;The Christian History Timeline—How We Got Our Bible.&quot; in &quot;How We Got Our Bible, Canon to King James,&quot; <i>Christian History Magazine<i> no. 43 (1994)."
 },
 {"id":"King Alfred the Great translates the Psalms and 10 Commandments",
    "label":"King Alfred the Great translates the Psalms and 10 Commandments",
@@ -1007,7 +1007,7 @@
    "imagesource":"http://en.wikipedia.org/wiki/File:Statue_d%27Alfred_le_Grand_%C3%A0_Winchester.jpg",
    "imagecredit":"Wikipedia",
    "eventType":"Bible--other",
-   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
+   "sources":"Comfort, Philip W. &quot;The Christian History Timeline—How We Got Our Bible.&quot; in &quot;How We Got Our Bible, Canon to King James,&quot; <i>Christian History Magazine<i> no. 43 (1994)."
 },
 {"id":"The Lindisfarne Gospels",
    "label":"The 7th-century Lindisfarne Gospels receive English translation",
@@ -1018,7 +1018,7 @@
    "imagesource":"http://en.wikipedia.org/wiki/File:LindisfarneChiRiho.jpg",
    "imagecredit":"Wikipedia",
    "eventType":"Bible--other",
-   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
+   "sources":"Comfort, Philip W. &quot;The Christian History Timeline—How We Got Our Bible.&quot; in &quot;How We Got Our Bible, Canon to King James,&quot; <i>Christian History Magazine<i> no. 43 (1994)."
 },
 {"id":"Aelfric translates various Bible books",
    "label":"Aelfric translates various Bible books",
@@ -1026,14 +1026,14 @@
    "start":"0955",
    "end":"1020",
    "eventType":"Bible--other",
-   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
+   "sources":"Comfort, Philip W. &quot;The Christian History Timeline—How We Got Our Bible.&quot; in &quot;How We Got Our Bible, Canon to King James,&quot; <i>Christian History Magazine<i> no. 43 (1994)."
 },
 {"id":"Invention of eyeglasses aids copying",
    "label":"Invention of eyeglasses aids copying",
    "type":"Item",
    "start":"1300",
    "eventType":"Scholarship",
-   "sources":"Comfort, Philip W. \"The Christian History Timeline—How We Got Our Bible.\" in \"How We Got Our Bible, Canon to King James,\" <i>Christian History Magazine<i> no. 43 (1994)."
+   "sources":"Comfort, Philip W. &quot;The Christian History Timeline—How We Got Our Bible.&quot; in &quot;How We Got Our Bible, Canon to King James,&quot; <i>Christian History Magazine<i> no. 43 (1994)."
 },
   {"id":"Millenary Petition",
    "label":"Millenary Petition",
@@ -1041,14 +1041,14 @@
    "start":"1603",
    "description":"The Millenary Petition was a list of requests given to James I by Puritans in 1603 when he was travelling to London in order to claim the English throne. This carefully worded document expressed Puritan distaste regarding the state of the Anglican Church, and took into consideration James' religious views as well as his liking for a debate, as written in <i>Basilikon Doron.</i>While many of the main Puritan goals were rebutted, the petition did culminate in the Hampton Court Conference, which eventually led James to commission a new English translation of the bible, now known as the King James Version.",
    "eventType":"Religion",
-   "sources":"<a target=\"_blank\" href=\"http://history.hanover.edu/texts/ENGref/er88.html\">Online text of the Millenary Petition</a>",
+   "sources":"<a target=&quot;_blank&quot; href=&quot;http://history.hanover.edu/texts/ENGref/er88.html&quot;>Online text of the Millenary Petition</a>",
    "wikipedia":"http://en.wikipedia.org/wiki/Millenary_Petition"
 },
   {"id":"Richard Bancroft's anti-Puritan canons receive royal approval",
    "label":"Richard Bancroft's anti-Puritan canons receive royal approval",
    "type":"Item",
    "start":"1604-03",
-   "description":"\"The tension between the prelates of the official church and the Puritans grew during James's reign. In 1604, Richard Bancroft, archbishop of Canterbury, had a series of canons approved in which it was affirmed that episcopal hierarchy was an institution of divine origin, and that without it there could be no true church. This implied a rejection of the many Protestant churches on the Continent that had no bishops, and therefore Puritans saw in it a step towards breaking away from Protestant ties in order to reintroduce Catholicism in England. Besides this, several other canons approved on the archbishop's insistence were clearly directed against Puritans.\"",
+   "description":"&quot;The tension between the prelates of the official church and the Puritans grew during James's reign. In 1604, Richard Bancroft, archbishop of Canterbury, had a series of canons approved in which it was affirmed that episcopal hierarchy was an institution of divine origin, and that without it there could be no true church. This implied a rejection of the many Protestant churches on the Continent that had no bishops, and therefore Puritans saw in it a step towards breaking away from Protestant ties in order to reintroduce Catholicism in England. Besides this, several other canons approved on the archbishop's insistence were clearly directed against Puritans.&quot;",
    "eventType":"Religion",
    "sources":"Gonzalez, Justo L. <i>The Story of Christianity: The Reformation to the Present Day.</i> Vol. 2. 1st ed. HarperOne, 1985., p152.",
    "wikipedia":"http://en.wikipedia.org/wiki/Richard_Bancroft",
@@ -1112,7 +1112,7 @@
 },
 {"id":"Joint Committee on bible Translation formed by NAE and CRC to produce new translation",
    "label":"Joint Committee on bible Translation formed by NAE and CRC to produce new translation",
-   "description": "Joint Committee on Bible Translation forms from the NAE and the CRC committees with the agenda \"to call a Bible Translation Conference for the purpose of exploring the need for a new English translation or revision of the Bible.\"",
+   "description": "Joint Committee on Bible Translation forms from the NAE and the CRC committees with the agenda &quot;to call a Bible Translation Conference for the purpose of exploring the need for a new English translation or revision of the Bible.&quot;",
    "type":"Item",
    "start":"1962",
    "wikipedia":"http://en.wikipedia.org/wiki/NIV",
@@ -1124,7 +1124,7 @@
 },
 {"id":"Committee on Bible Translation forms to carry on the work of the Joint Committee",
    "label":"Committee on Bible Translation forms to carry on the work of the Joint Committee",
-   "description": "A general conference (organized by the Joint Committee) meets to examine the possibility of broad evangelical support of the translation project  and examines the merits of other translations such as the NASB and RSV. Adopted this consensus: \"It is the sense of this assembly that the preparation of a contemporary English translation should be undertaken as a collegiate endeavor of evangelical scholars.\" A new committee (eventually called the Committee on Bible Translation [CBT]) established to carry on the work of translation and discontinue the Joint Committee.",
+   "description": "A general conference (organized by the Joint Committee) meets to examine the possibility of broad evangelical support of the translation project  and examines the merits of other translations such as the NASB and RSV. Adopted this consensus: &quot;It is the sense of this assembly that the preparation of a contemporary English translation should be undertaken as a collegiate endeavor of evangelical scholars.&quot; A new committee (eventually called the Committee on Bible Translation [CBT]) established to carry on the work of translation and discontinue the Joint Committee.",
    "type":"Item",
    "start":"1965",
    "wikipedia":"http://en.wikipedia.org/wiki/NIV",
@@ -1171,7 +1171,7 @@
 },
 {"id":"Early release of 'New International Version' NT",
    "label":"Early release of 'New International Version' NT",
-   "description": "The name \"New International Version\" is chosen; the text of the New Testament is published",
+   "description": "The name &quot;New International Version&quot; is chosen; the text of the New Testament is published",
    "type":"Item",
    "start":"1973",
    "wikipedia":"http://en.wikipedia.org/wiki/NIV",
@@ -1232,7 +1232,7 @@
 },
 {"id":"Colorado Springs Guidelines produced",
    "label":"Colorado Springs Guidelines produced",
-   "description": "International Bible Society (IBS) announces plans to revise the NIV to use the gender-neutral language already employed in the NIVI and the NIrV. Announcement evokes furor from evangelicals and fundamentalists alike. James Dobson convenes meeting of enraged evangelicals and Zondervan/NIV translators on May 27 in Colorado Springs where Zondervan agrees in the \"Colorado Springs Guidelines\" not to revise the NIV to use gender-neutral language.  As a result, the NIVI was pulled and the NIrV was scheduled for revision to bring its gender usage in line with the 1984 NIV",
+   "description": "International Bible Society (IBS) announces plans to revise the NIV to use the gender-neutral language already employed in the NIVI and the NIrV. Announcement evokes furor from evangelicals and fundamentalists alike. James Dobson convenes meeting of enraged evangelicals and Zondervan/NIV translators on May 27 in Colorado Springs where Zondervan agrees in the &quot;Colorado Springs Guidelines&quot; not to revise the NIV to use gender-neutral language.  As a result, the NIVI was pulled and the NIrV was scheduled for revision to bring its gender usage in line with the 1984 NIV",
    "type":"Item",
    "start":"1997-05-27",
    "wikipedia":"http://en.wikipedia.org/wiki/NIV",
@@ -1240,7 +1240,7 @@
    
    
    "eventType":"Bible--NIV",
-   "sources":"Gene Edward Veith, \"Beyond Stealth,\" <em>World</em>, January 29, 2005, 30; Susan Olasky, \"Bailing Out of the Stealth Bible,\" <em>World</em>, June 14, 1997, 13-14."
+   "sources":"Gene Edward Veith, &quot;Beyond Stealth,&quot; <em>World</em>, January 29, 2005, 30; Susan Olasky, &quot;Bailing Out of the Stealth Bible,&quot; <em>World</em>, June 14, 1997, 13-14."
 },
 {"id":"Zondervan reprints NIrV",
    "label":"Zondervan reprints NIrV",
@@ -1249,7 +1249,7 @@
    "start":"1998",
    "wikipedia":"http://en.wikipedia.org/wiki/NIV",
    "eventType":"Bible--NIV",
-   "sources":"Edward E. Plowman, \"October Surprise,\" <em>World</em>, November 21, 1998, 17."
+   "sources":"Edward E. Plowman, &quot;October Surprise,&quot; <em>World</em>, November 21, 1998, 17."
 },
 {"id":"TNIV announced by IBS",
    "label":"TNIV announced by IBS",
@@ -1258,7 +1258,7 @@
    "start":"1999",
    "wikipedia":"http://en.wikipedia.org/wiki/TNIV",
    "eventType":"Bible--NIV",
-   "sources":"Gene Edward Veith, \"Beyond Stealth,\" <em>World</em>, January 29, 2005, 30"
+   "sources":"Gene Edward Veith, &quot;Beyond Stealth,&quot; <em>World</em>, January 29, 2005, 30"
 },
 {"id":"TNIV New Testament released",
    "label":"TNIV New Testament released",
@@ -1388,7 +1388,7 @@
 },
 {"id":"James Barr publishes The Semantics of Biblical Language",
    "label":"James Barr publishes The Semantics of Biblical Language",
-   "description": "<p>James Barr's <em>The Semantics of Biblical Language</em> massively influenced evangelical scholarship and modern Bible translation. Despite Barr's controversial claims and rejection of inerrancy, his contributions have been helpful to conservative scholars (including his student Moisés Silva). The current publisher's description summarizes the book's influence as follows:</p><blockquote><p>Behind the academic and innocently descriptive title of this book is to be found one of the most explosive works of biblical scholarship to be published in the 20th century. Certainly many of those who read it when it first appeared were never the same again, and it signalled the end of what had hitherto been a flourishing literature on biblical theology.</p><p>\"In recent years,\" Barr writes in the Preface, \"I have come to believe that one of the greatest dangers to sound and adequate interpretation of the Bible comes from the prevailing use of procedure which, while claiming to rest upon a knowledge of the Israelite and Greek ways of thinking, constantly mishandles and distorts the linguistic evidence of the Hebrew and Greek languages as they are used in the Bible. The increasing sense of dependence upon the Bible in the modern church only makes this danger more serious. The fact that these procedures have never to my knowledge been collected, analysed, and criticized in detail was the chief stimulus to my undertaking of this task myself.\"</p><p>His conclusions brought much criticism initially, but forty years later they still stand. This book is essential reading for any student of the Bible.</p></blockquote>",
+   "description": "<p>James Barr's <em>The Semantics of Biblical Language</em> massively influenced evangelical scholarship and modern Bible translation. Despite Barr's controversial claims and rejection of inerrancy, his contributions have been helpful to conservative scholars (including his student Moisés Silva). The current publisher's description summarizes the book's influence as follows:</p><blockquote><p>Behind the academic and innocently descriptive title of this book is to be found one of the most explosive works of biblical scholarship to be published in the 20th century. Certainly many of those who read it when it first appeared were never the same again, and it signalled the end of what had hitherto been a flourishing literature on biblical theology.</p><p>&quot;In recent years,&quot; Barr writes in the Preface, &quot;I have come to believe that one of the greatest dangers to sound and adequate interpretation of the Bible comes from the prevailing use of procedure which, while claiming to rest upon a knowledge of the Israelite and Greek ways of thinking, constantly mishandles and distorts the linguistic evidence of the Hebrew and Greek languages as they are used in the Bible. The increasing sense of dependence upon the Bible in the modern church only makes this danger more serious. The fact that these procedures have never to my knowledge been collected, analysed, and criticized in detail was the chief stimulus to my undertaking of this task myself.&quot;</p><p>His conclusions brought much criticism initially, but forty years later they still stand. This book is essential reading for any student of the Bible.</p></blockquote>",
    "type":"Item",
    "start":"1961",
    "wikipedia":"https://en.wikipedia.org/wiki/James_Barr_(biblical_scholar)",
