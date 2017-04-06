@@ -62,10 +62,9 @@
    "start":"1717",
    "description":"At the top of the page containing the twentieth chapter of the Book of Luke, with its parable of the vineyard, the typesetter of this Oxford Bible inadvertently set the page-head to read 'The parable of the vinegar.'",
    "eventType":"Bible--KJV",
-   "sources":"<a href=&quot;http://library.bju.edu/record=b1331537&quot; target=&quot;_blank&quot;>Copy in the Mack Library collection</a>",
+   "sources":"<a href=&quot;http://libraryaccount.bju.edu/record=b1331537&quot; target=&quot;_blank&quot;>Copy in the Mack Library collection</a>",
    "wikipedia":"http://en.wikipedia.org/wiki/Vinegar_Bible",
-   "image":"http://rookery9.aviary.com.s3.amazonaws.com/6510000/6510358_a656.png",
-   "imagesource":"http://library.bju.edu/record=b1331537",
+   "imagesource":"http://libraryaccount.bju.edu/record=b1331537",
    "imagecredit":"BJU Mack Library catalog"
 },
   {"id":"Translation Committee translates in sections",
