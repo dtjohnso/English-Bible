@@ -15,3 +15,4 @@ data/medieval.json
 data/tyndale.json
 data/wycliffe.json
 data/kjv.json
+*.sublime-workspace
