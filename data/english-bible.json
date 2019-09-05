@@ -1447,7 +1447,17 @@
    "wikipedia":"http://en.wikipedia.org/wiki/English_Standard_Version",
    "eventType":"Bible--ESV",
    "sources":"<a href='http://web.archive.org/web/20160929004517/https://www.crossway.org/blog/2016/09/crossway-statement-on-the-esv-bible-text/'>Press release (archive.org copy)</a>"
+},
+{"id":"NET Bible, Second Edition",
+   "label":"NET Bible, Second Edition",
+   "description": "<p>From the Preface to the Second edition:</p><blockquote> <p>The most substantial editing work for this Second Edition centered on the essential task of creating an updated Strong’s Hebrew/Greek to English mapping of the entire translation. This allowed the discovery of discrepancies and inconsistencies as well as creating a collating base for comparing consistency across the entire Bible. We completed many items on our list of initiatives for the Second Edition:</p> <ol> <li>Both OT and NT have updated Strong’s tagged using phrase tagging as well as multiple number tagging.</li> <li>This detailed Strong’s tagging was used to detect and correct inconsistencies across the OT.</li> <li>Divine names in the OT have been made more consistent.</li> <li>Technical terms related to geography, feast names, and the tabernacle have been made more consistent.</li> <li>References to explicit sexual body parts or sexual acts have been made more euphemistic like it is in the Hebrew and Greek. Sometimes a more transparent translation isn’t always better, such as reading the Christmas story with young children.</li> <li>Awkward/unidiomatic renderings were revised, and</li> <li>Hebrew references in footnotes were corrected and standardized.</li> </ol> </blockquote>",
+   "type":"Item",
+   "start":"2017-05-16",
+   "wikipedia":"https://en.wikipedia.org/wiki/New_English_Translation",
+   "eventType":"Bible--other",
+   "sources":"<a href='https://netbible.com/about/'>NET Bible 'About' page</a> [<a href='http://web.archive.org/web/20190905142627/https://netbible.com/about/'>archived copy</a>], <a href='https://netbible.com/preface/'>NET Bible Preface</a> [<a href='http://web.archive.org/web/20190905142431/https://netbible.com/preface/'>archived copy</a>]"
 }
+
 
 
 
