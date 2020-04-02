@@ -1456,6 +1456,28 @@
    "wikipedia":"https://en.wikipedia.org/wiki/New_English_Translation",
    "eventType":"Bible--other",
    "sources":"<a href='https://netbible.com/about/'>NET Bible 'About' page</a> [<a href='http://web.archive.org/web/20190905142627/https://netbible.com/about/'>archived copy</a>], <a href='https://netbible.com/preface/'>NET Bible Preface</a> [<a href='http://web.archive.org/web/20190905142431/https://netbible.com/preface/'>archived copy</a>]"
+},
+{"id":"Christian Standard Bible (CSB)",
+   "label":"Christian Standard Bible (CSB)",
+   "description": "<p>As described by Mark Strauss:</p> <blockquote>The Christian Standard Bible (CSB) is a 2017 revision and replacement of the Holman Christian Standard Bible (HCSB), first published in 2004. The Translation Oversight Committee was co-chaired by Thomas Schreiner and David Allen. The CSB follows the same basic translation philosophy as the HCSB, a mediating approach between formal and functional equivalence, similar to versions like the NIV, the NET Bible and the CEB. The CSB removes a number of the HCSB’s idiosyncracies, such as the use of \"Yahweh\" for the tetragrammaton (YHWH). Most significantly, the CSB departs from its predecessor by positively embracing \"gender-accurate\" language, for example, by translating the Greek ἀδελφοί as \"brothers and sisters\" when the referent includes both men and women. In general, the CSB is a significant improvement over the HCSB in terms to both accuracy and style.</blockquote>",
+   "type":"Item",
+   "start":"2017",
+   "wikipedia":"https://en.wikipedia.org/wiki/Christian_Standard_Bible",
+   "image":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Csb-translation-logo.jpg",
+   "imagesource":"https://commons.wikimedia.org/wiki/File:Csb-translation-logo.jpg",
+   "imagecredit":"Mgmcdaniel / CC BY-SA 4.0",
+   "eventType":"Bible--other",
+   "sources":"Strauss, Mark L. \"A Review of the Christian Standard Bible.\" <i>Themelios</i> 44, no. 2 (August 2019): 258&ndash;77. <a href=\"http://themelios.thegospelcoalition.org/article/a-review-of-the-christian-standard-bible\">http://themelios.thegospelcoalition.org/article/a-review-of-the-christian-standard-bible</a>"
+},
+{"id":"John MacArthur announces new edition of the NASB known as the \"Legacy Standard Bible\"",
+   "label":"John MacArthur announces new edition of the NASB known as the \"Legacy Standard Bible\"",
+   "description": "In a webcast message to Grace Community Church during the COVID-19 pandemic, John MacArthur announced a new Bible translation project, known as the Legacy Standard Bible. This translation will be a licensed update of the New American Standard Bible (NASB), with permission from the Lockman Foundation. The New Testament, Psalms, and Proverbs will be available at the March 2021 Shepherd’s Conference, with the completed edition to be released at a later date.",
+   "type":"Item",
+   "start":"2020-04-01",
+   "image":"https://duncanjohnson.ca/images/2020/04/john-macarthur-mid-week-video-thumbnail.jpg",
+   "imagesource":"http://duncanjohnson.ca/blog/2020/04/02/macarthur-legacy-standard-bible/",
+   "eventType":"Bible--other",
+   "sources":"<a href=\"http://duncanjohnson.ca/blog/2020/04/02/macarthur-legacy-standard-bible/\">Video transcript</a>"
 }
 
 
