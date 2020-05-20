@@ -1478,7 +1478,20 @@
    "imagesource":"http://duncanjohnson.ca/blog/2020/04/02/macarthur-legacy-standard-bible/",
    "eventType":"Bible--other",
    "sources":"<a href=\"http://duncanjohnson.ca/blog/2020/04/02/macarthur-legacy-standard-bible/\">Video transcript</a>"
+},
+{"id":"CSB releases minor update",
+   "label":"CSB releases minor update",
+   "description": "The CSB Translation Oversight Committee released a minor update to the translation in response to scholarly critique, especially the observations of <a href=\"http://themelios.thegospelcoalition.org/article/a-review-of-the-christian-standard-bible\">Mark Strauss</a>. A full list of updates is provided on the CSB website.",
+   "type":"Item",
+   "start":"2020",
+   "wikipedia":"https://en.wikipedia.org/wiki/Christian_Standard_Bible",
+   "image":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Csb-translation-logo.jpg",
+   "imagesource":"https://commons.wikimedia.org/wiki/File:Csb-translation-logo.jpg",
+   "imagecredit":"Mgmcdaniel / CC BY-SA 4.0",
+   "eventType":"Bible--other",
+   "sources":"<a href=\"http://web.archive.org/web/20200520142943/https://csbible.com/2020updates/\">CSB 2020 Update page</a>"
 }
+
 
 
 
