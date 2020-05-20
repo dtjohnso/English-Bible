@@ -1073,7 +1073,7 @@
    "label":"Holman Christian Standard Bible",
    "type":"Item",
    "start":"2004-03",
-   "eventType":"Bible--other",
+   "eventType":"Bible--HCSB/CSB",
    "wikipedia":"http://en.wikipedia.org/wiki/HCSB",
    "image":"http://hcsb.org/resized-image.ashx/__size/500x150/__key/CommunityServer-Components-GroupAvatars/00-00-00-00-37/4THDIDTAKP69.png",
    "imagesource":"http://hcsb.org/default.aspx",
@@ -1420,7 +1420,7 @@
    "type":"Item",
    "start":"2016-06-21",
    "wikipedia":"http://en.wikipedia.org/wiki/HCSB",
-   "eventType":"Bible--other",
+   "eventType":"Bible--HCSB/CSB",
    "sources":"<a href='http://www.bhpublishinggroup.com/press-release/bh-to-launch-christian-standard-bible-csb-version-in-2017'>Press release</a>; Copy stored on <a href='http://web.archive.org/web/20160929005231/http://www.bhpublishinggroup.com/press-release/bh-to-launch-christian-standard-bible-csb-version-in-2017'>archive.org</a>"
 },
 {"id":"Minor revision to ESV",
@@ -1466,7 +1466,7 @@
    "image":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Csb-translation-logo.jpg",
    "imagesource":"https://commons.wikimedia.org/wiki/File:Csb-translation-logo.jpg",
    "imagecredit":"Mgmcdaniel / CC BY-SA 4.0",
-   "eventType":"Bible--other",
+   "eventType":"Bible--HCSB/CSB",
    "sources":"Strauss, Mark L. \"A Review of the Christian Standard Bible.\" <i>Themelios</i> 44, no. 2 (August 2019): 258&ndash;77. <a href=\"http://themelios.thegospelcoalition.org/article/a-review-of-the-christian-standard-bible\">http://themelios.thegospelcoalition.org/article/a-review-of-the-christian-standard-bible</a>"
 },
 {"id":"John MacArthur announces new edition of the NASB known as the \"Legacy Standard Bible\"",
@@ -1488,7 +1488,7 @@
    "image":"https://upload.wikimedia.org/wikipedia/commons/d/d1/Csb-translation-logo.jpg",
    "imagesource":"https://commons.wikimedia.org/wiki/File:Csb-translation-logo.jpg",
    "imagecredit":"Mgmcdaniel / CC BY-SA 4.0",
-   "eventType":"Bible--other",
+   "eventType":"Bible--HCSB/CSB",
    "sources":"<a href=\"http://web.archive.org/web/20200520142943/https://csbible.com/2020updates/\">CSB 2020 Update page</a>"
 }
 
