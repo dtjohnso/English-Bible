@@ -1490,6 +1490,17 @@
    "imagecredit":"Mgmcdaniel / CC BY-SA 4.0",
    "eventType":"Bible--HCSB/CSB",
    "sources":"<a href=\"http://web.archive.org/web/20200520142943/https://csbible.com/2020updates/\">CSB 2020 Update page</a>"
+},
+{"id":"Evangelical Heritage Version",
+   "label":"Evangelical Heritage Version",
+   "description": "The Evangelical Heritage Version (EHV) is a translation of the Bible into the English language. The translation project was called The Wartburg Project and the group of translators consisted of pastors, professors, and teachers from the Wisconsin Evangelical Lutheran Synod (WELS) and Evangelical Lutheran Synod (ELS).",
+   "type":"Item",
+   "start":"2019",
+   "wikipedia":"https://en.wikipedia.org/wiki/Evangelical_Heritage_Version",
+   "image":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e4/Evangelical_Heritage_Version_cover.jpeg/220px-Evangelical_Heritage_Version_cover.jpeg",
+   "imagesource":"https://en.wikipedia.org/wiki/File:Evangelical_Heritage_Version_cover.jpeg",
+   "imagecredit":"Wikipedia",
+   "eventType":"Bible--other"
 }
 
 
